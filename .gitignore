@@ -13,7 +13,6 @@ __pycache__/
 /data/
 /resources/
 /runs/
-/supplementary/
 *.npz
 *.npy
 *.pkl

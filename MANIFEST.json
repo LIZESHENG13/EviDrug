@@ -8,8 +8,8 @@
       "sha256": "1da63f6f21fb210b43520913e1739b9fece76347c4933359ea885dbf92399ac0"
     },
     ".gitignore": {
-      "bytes": 203,
-      "sha256": "e736fe776dcd9e92b6c11854cf119ae1a12b9ebed588dfe1b40d8b1658e9d56d"
+      "bytes": 187,
+      "sha256": "bcaedb2cfe34d758e1de3d388748c6d0468ec01de519851d35af6e6bdb229646"
     },
     "LICENSE": {
       "bytes": 1078,
@@ -24,8 +24,8 @@
       "sha256": "2cb2e02bc33c3210451b4989fa9dcf87f3225b8192415e2b030a1bf4e5192dd7"
     },
     "README.md": {
-      "bytes": 5237,
-      "sha256": "8e184df4f4d9cb30c2bf54a0b7b58394db2c62527c25bd530f9bf992fa25305e"
+      "bytes": 5785,
+      "sha256": "fd6a46adb701aa13ab543e2afb830267ac30afcd0eaefb45e30615d7e9c9be8b"
     },
     "configs/cohorts.json": {
       "bytes": 1149,
@@ -92,8 +92,8 @@
       "sha256": "9947266fcc24d7331cc1f021bfe0bf607ffac6d6447ca5dfe0a0de1bf993af42"
     },
     "docs/results.md": {
-      "bytes": 5498,
-      "sha256": "05b0545a979ac9a6243ab4fb9a0ee395f54d65d92147b091833280b327b4710c"
+      "bytes": 5655,
+      "sha256": "dc3e5c191efd93101dd8fce09149cc268945407a7b005593164ed8ec589e04f5"
     },
     "pyproject.toml": {
       "bytes": 906,
@@ -176,8 +176,8 @@
       "sha256": "c8120424a3d0a93821fb380f99c5a1d78585692bb17afadfd3159190fb1ec941"
     },
     "scripts/build_manifest.py": {
-      "bytes": 1716,
-      "sha256": "d0cf60fc3d35d6854a7619610b8ec426fcc14330162fa5a8d32de47343cbc5ee"
+      "bytes": 2114,
+      "sha256": "7e7a2336c8601dbe27f2a3df11ea8f060c1bbe0effa6bb8b874a5722870d5330"
     },
     "scripts/recompute_metrics.py": {
       "bytes": 722,
@@ -319,6 +319,86 @@
       "bytes": 1129,
       "sha256": "e2d8b1096b4443c7f31074aa681a37c918fbdebff291331c089176d442814dc9"
     },
+    "supplementary/EviDrug_Supplementary.pdf": {
+      "bytes": 166478,
+      "sha256": "d8afa8cd6f2ebdc9dc0b62467a9f8a0e3e5f00702cbb0f83b7a9baa3a0fcdc22"
+    },
+    "supplementary/README.md": {
+      "bytes": 1356,
+      "sha256": "84941274c36aa3a9d73aec8c9460fa0e4f6bb91685176193d26abaa0751da0b6"
+    },
+    "supplementary/data/sicdb_medication_mapping.csv": {
+      "bytes": 32714,
+      "sha256": "d4fb50e92b390d140eed74256d4050bf4d8338c75974da17c4729b92a111c1d0"
+    },
+    "supplementary/docs/data_protocol.md": {
+      "bytes": 12673,
+      "sha256": "af0ed7b6e8ee5c67075093982fb2e503f7423c4fe24fb4c45fc7fb530bc05ad4"
+    },
+    "supplementary/docs/experimental_protocol.md": {
+      "bytes": 5844,
+      "sha256": "9d6b9821ff4ff2b461b79693dc25a7cba5a6ce2b6e86e8e77d9f7b78dc4c1535"
+    },
+    "supplementary/references.bib": {
+      "bytes": 12113,
+      "sha256": "183b18aaff86f6821e74f4c76bdaa32466f2aefbb558138fe92b8caa1b546aeb"
+    },
+    "supplementary/tables/ablation_after_feedback.csv": {
+      "bytes": 9768,
+      "sha256": "8c2e344941c5c1544316fc15c6858fce644be74365f75061f0d0743d9c78b699"
+    },
+    "supplementary/tables/ablation_before_feedback.csv": {
+      "bytes": 9472,
+      "sha256": "00ea05c8d7d94e7d907d9e09154e3a56a8ecfa72f6066e4d6d94a0f62728d5bd"
+    },
+    "supplementary/tables/all_test_results.csv": {
+      "bytes": 36214,
+      "sha256": "15414fb1a392997436f610da197907c223e38c3d6f2fdf5e20b888782264fa2c"
+    },
+    "supplementary/tables/clinical_analyses/clinical_support.csv": {
+      "bytes": 4456,
+      "sha256": "fc4f413d605f4fd514187e5a932ca4ae2f93386d3b7248addcbfc4b812be9c2b"
+    },
+    "supplementary/tables/clinical_analyses/continued_new.csv": {
+      "bytes": 26081,
+      "sha256": "4857b25625b83ae9e8e4937c861a4203856a8bf30c46ef68061dfa7a95322bff"
+    },
+    "supplementary/tables/clinical_analyses/equal_k.csv": {
+      "bytes": 45682,
+      "sha256": "a83ec4d5be4029dcd616d3cdc9da4daef5fcde7288c2a798caaa59387f384a5f"
+    },
+    "supplementary/tables/clinical_analyses/history_depth.csv": {
+      "bytes": 57203,
+      "sha256": "66274a26063161280eb071dc5fc68e2f12f4fd9e393a3c2a10937599ce7149fa"
+    },
+    "supplementary/tables/clinical_analyses/medication_frequency.csv": {
+      "bytes": 59917,
+      "sha256": "22b7326de5ed3c632ac84d98cb4118ea01db91d1da2efa2d1f6b080716fee1b6"
+    },
+    "supplementary/tables/clinical_analyses/paired_bootstrap.csv": {
+      "bytes": 8253,
+      "sha256": "a25104444ebd9a25b837fd13ccfebed7e08b32cc849d07cb9b512d7a83334f41"
+    },
+    "supplementary/tables/clinical_analyses/prior_burden.csv": {
+      "bytes": 109444,
+      "sha256": "f9feca44f37cca6ef289720f325d3d5c8d0270a439a5709c6e3ed448c4dee038"
+    },
+    "supplementary/tables/clinical_analyses/thresholds.csv": {
+      "bytes": 165862,
+      "sha256": "6de6d552fec394c81dcca8fd53c4f810dcb9000966f9ca7f9aca0c73749af9cf"
+    },
+    "supplementary/tables/ddi_controls_by_seed.csv": {
+      "bytes": 9623,
+      "sha256": "2a9a094d750e2db5833732b2e548ce70b5c23feff48d17c0afa0dada995a138e"
+    },
+    "supplementary/tables/efficiency_measurements.csv": {
+      "bytes": 5218,
+      "sha256": "3ebc3fc1e303262fa9b1e3afa036e0523e5728272d273c51d9558f7e1b114e98"
+    },
+    "supplementary/tables/main_model_by_seed.csv": {
+      "bytes": 1948,
+      "sha256": "b0e3386e3a0debcbfeed4f14bc555780dd0975d3c01f2620e3698d5741923241"
+    },
     "tests/conftest.py": {
       "bytes": 1935,
       "sha256": "d8a6a4d21ff58c8290310ff8d70c76568357c772174fa73bc4d8b7152be938be"
@@ -356,7 +436,7 @@
       "sha256": "8f420d7f8ff2a177c3ca0571bf48ee6a3101f8ee4651dee7fff172d41d9bc19a"
     }
   },
-  "files_count": 88,
+  "files_count": 108,
   "patient_level_data_included": false,
-  "supplementary_pdf_included": false
+  "supplementary_pdf_included": true
 }

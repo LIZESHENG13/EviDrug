@@ -16,7 +16,7 @@ All files here describe the frozen `clinical_memory_dynamic_20261104` study. The
 | History/support analysis figure | Connect benefits to history depth and training association support | `history_depth.csv`, `clinical_support.csv` |
 | High-burden figure and pair-count table | AP versus interaction proxy and numerator counts in a shared stratum | `prior_burden.csv` |
 
-Table/figure numbers follow the manuscript build; the definitions above identify their contents independently of numbering. The supplementary PDF is delivered separately.
+Table/figure numbers follow the manuscript build; the definitions above identify their contents independently of numbering. The [supplementary PDF](../supplementary/EviDrug_Supplementary.pdf) and [supporting tables](../supplementary/README.md) provide the complete seed-level comparisons, data protocol and medication mappings.
 
 ## Scalar row inventory
 

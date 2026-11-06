@@ -25,9 +25,16 @@ def main():
             continue
         if any(part in EXCLUDED or part.endswith(".egg-info") for part in relative.parts):
             continue
-        if relative.parts[0] in ("data", "resources", "runs", "supplementary"):
-            raise ValueError(f"Private or separate delivery directory: {relative}")
-        if path.suffix in (".npz", ".npy", ".pkl", ".pt", ".pth", ".pdf", ".zip"):
+        if relative.parts[0] in ("data", "resources", "runs"):
+            raise ValueError(f"Private data directory: {relative}")
+        supplementary_pdf = relative.as_posix() == "supplementary/EviDrug_Supplementary.pdf"
+        if relative.parts[0] == "supplementary" and not (
+            supplementary_pdf or path.suffix in (".md", ".csv", ".bib")
+        ):
+            raise ValueError(f"Unexpected supplementary file: {relative}")
+        if path.suffix in (".npz", ".npy", ".pkl", ".pt", ".pth", ".zip") or (
+            path.suffix == ".pdf" and not supplementary_pdf
+        ):
             raise ValueError(f"Unexpected release file: {relative}")
         if path.is_symlink():
             raise ValueError(f"Release files must be regular files: {relative}")
@@ -42,7 +49,7 @@ def main():
         "files": files,
         "files_count": len(files),
         "patient_level_data_included": False,
-        "supplementary_pdf_included": False,
+        "supplementary_pdf_included": (ROOT / "supplementary/EviDrug_Supplementary.pdf").is_file(),
     }
     (ROOT / "MANIFEST.json").write_text(json.dumps(value, indent=2) + "\n")
     print(f"Manifested {len(files)} public release files.")

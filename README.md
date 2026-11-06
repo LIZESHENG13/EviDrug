@@ -4,6 +4,8 @@
 
 [Anonymous review repository](https://anonymous.4open.science/r/EviDrug-B7C7/)
 
+[Supplementary PDF](supplementary/EviDrug_Supplementary.pdf) · [Supplementary tables and data protocol](supplementary/README.md)
+
 EviDrug recommends medication sets from clinical codes and medication history. A structured visit encoder, training-case memory and one medication-set interaction block form the clinical-memory backbone. A residual evidence head refines its logits, and epoch-wise DDI feedback adjusts the training objective.
 
 The selected model uses **zero clinical Transformer layers**, **one medication-set interaction block**, and **no medication-graph representation branch**. All embeddings are trained on the study cohort.
@@ -38,6 +40,7 @@ scripts/              study launcher, metric replay and release audit
 tests/                synthetic pipeline and model invariants
 results/              frozen aggregate study results
 docs/                 architecture, data and reproduction guides
+supplementary/        supplementary PDF, seed-level tables and medication mappings
 verification/         release and refactor verification records
 ```
 
@@ -88,7 +91,9 @@ These results identify the frozen study model `clinical_memory_dynamic_20261104`
 
 This repository provides the current EviDrug implementation and its ablations. Historical experiment drivers are replaced by the focused package above. Checkpoint migration and numerical equivalence are documented in `verification/`; fresh training follows the same equations, budgets and selectors, while its random initialization stream can differ from the historical runs.
 
-Clinical records, patient-level predictions, retrieval banks, trained weights and the separate supplementary PDF are not distributed here.
+The [28-page supplement](supplementary/EviDrug_Supplementary.pdf) provides cohort construction, additional method details, experimental settings, complete seed-level comparisons and all 520 SICdb medication mappings. Its [accompanying CSV tables](supplementary/tables/) include 144 EviDrug stage/variant/seed records, 36 baseline results and the clinical analyses.
+
+Clinical records, patient-level predictions, retrieval banks and trained weights are not distributed here.
 
 ## Attribution
 

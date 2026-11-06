@@ -1,0 +1,49 @@
+dataset,comparison,metric,replicates,scope,difference,low,high
+SICdb,EviDrug minus SSPNet,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.017082014459883332,0.011407676377191586,0.022733629149334227
+SICdb,EviDrug minus SSPNet,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.016882692863457782,0.01133373204242524,0.022185008364055094
+SICdb,EviDrug minus SSPNet,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.017558416186835624,0.011460551764853062,0.02329848780666335
+SICdb,EviDrug minus SSPNet,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.01802724019804712,0.015653134612213248,0.02044874005069016
+SICdb,full_minus_metadrug,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.03074406243446337,0.024178096122524556,0.03737048743220402
+SICdb,full_minus_metadrug,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.03390166116910198,0.026406168790696766,0.04161612120721091
+SICdb,full_minus_metadrug,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.03475111550544313,0.026871934706225373,0.04285563702936236
+SICdb,full_minus_metadrug,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,-0.014643882301856814,-0.018349756716862998,-0.01138598741664515
+SICdb,full_minus_safedrug_fixed_literal,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.08278369578310563,0.07391929008666842,0.09129973088219091
+SICdb,full_minus_safedrug_fixed_literal,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.09447295590798388,0.08642899870908863,0.10244108608669317
+SICdb,full_minus_safedrug_fixed_literal,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.09949520302992143,0.09119465469696675,0.10784774243738565
+SICdb,full_minus_safedrug_fixed_literal,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.05980815134790781,0.05668373815830164,0.06299833638895537
+SICdb,full_minus_molerec_gnn,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.09292362188194869,0.08440329595431247,0.10075818208940063
+SICdb,full_minus_molerec_gnn,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.08611909827297715,0.0779860800158618,0.09410583226255712
+SICdb,full_minus_molerec_gnn,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.08980139667303749,0.08181746819678891,0.09789653178591341
+SICdb,full_minus_molerec_gnn,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.06298428666690026,0.05990011757381245,0.06619052501876561
+NWICU,EviDrug minus SSPNet,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.020614201212986738,0.01613478513150979,0.025106417920782133
+NWICU,EviDrug minus SSPNet,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.02767484235134643,0.02387712709815048,0.03150560818169545
+NWICU,EviDrug minus SSPNet,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.030202178401855184,0.02622064595245315,0.03402303986613911
+NWICU,EviDrug minus SSPNet,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.01394069746268882,0.012256205978911206,0.01565076398621781
+NWICU,full_minus_metadrug,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.07231680766132809,0.067113725826238,0.07753656208084433
+NWICU,full_minus_metadrug,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.07329620417950422,0.06827828991233596,0.07836956713441559
+NWICU,full_minus_metadrug,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.0749847821640307,0.069945735443683,0.07991609946285624
+NWICU,full_minus_metadrug,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,-0.022122852187133987,-0.024612022979045852,-0.019589563234040607
+NWICU,full_minus_safedrug_fixed_literal,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.1640874717087326,0.15731964474925642,0.17040854417735762
+NWICU,full_minus_safedrug_fixed_literal,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.14517007467010828,0.13977792296076835,0.15065394614622582
+NWICU,full_minus_safedrug_fixed_literal,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.1415820508148664,0.13630764260478845,0.14693983580206635
+NWICU,full_minus_safedrug_fixed_literal,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.02403246609126726,0.021862293670040785,0.026216778240205563
+NWICU,full_minus_molerec_gnn,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.12992060297061148,0.12380592368190403,0.13617645875516085
+NWICU,full_minus_molerec_gnn,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.1233933153332723,0.11799258986399887,0.12900452186388334
+NWICU,full_minus_molerec_gnn,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.12270672645647562,0.11741658012990808,0.12818066655126636
+NWICU,full_minus_molerec_gnn,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.02202721919078042,0.01997322006238327,0.024181777115932605
+MIMIC-IV,EviDrug minus SSPNet,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.022628601323923636,0.021163156196944095,0.02420461253599252
+MIMIC-IV,EviDrug minus SSPNet,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.02192907076703199,0.02005777951276119,0.023821150947945763
+MIMIC-IV,EviDrug minus SSPNet,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.026364875953275857,0.02433448590586961,0.02847438383063099
+MIMIC-IV,EviDrug minus SSPNet,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,-0.00675479673028688,-0.00709729665193926,-0.006406470818358761
+MIMIC-IV,full_minus_metadrug,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.06809271101381942,0.06659118705761033,0.0695415595224558
+MIMIC-IV,full_minus_metadrug,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.05860286794392133,0.05662505642760374,0.06042915734080635
+MIMIC-IV,full_minus_metadrug,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.06186250218916911,0.05978490416044883,0.06376484440451989
+MIMIC-IV,full_minus_metadrug,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,-0.005155245211993717,-0.005496568907260395,-0.004827355066815417
+MIMIC-IV,full_minus_safedrug_fixed_literal,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.08621007262298841,0.08448269174834924,0.08800974802725872
+MIMIC-IV,full_minus_safedrug_fixed_literal,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.083830144694372,0.08172231147198188,0.08598624727593188
+MIMIC-IV,full_minus_safedrug_fixed_literal,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.09145439274918399,0.08919086802701649,0.09370881222183047
+MIMIC-IV,full_minus_safedrug_fixed_literal,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,-0.004490824034373092,-0.00484039980157164,-0.004156723095502076
+MIMIC-IV,full_minus_molerec_gnn,prauc,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.0762255757865884,0.07446780950527222,0.07781816883655895
+MIMIC-IV,full_minus_molerec_gnn,f1,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.07095749286222286,0.06894810815236681,0.07291475052457015
+MIMIC-IV,full_minus_molerec_gnn,jaccard,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,0.07893458240260376,0.07675894416561942,0.08114178442954137
+MIMIC-IV,full_minus_molerec_gnn,ddi,2000,three EviDrug seeds vs fixed single baseline seed; paired patients,-0.013716323593865591,-0.014091997305522984,-0.013301986051183887

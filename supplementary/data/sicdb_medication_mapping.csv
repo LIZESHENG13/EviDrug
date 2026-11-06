@@ -1,0 +1,521 @@
+medication_dictionary_term,ATC3,mapping_rule,mapping_description
+Abciximab,B01A,M1,Exact generic ingredient
+Acenocoumarol,B01A,M1,Exact generic ingredient
+Acetazolamid,S01E,M2,Explicit salt or terminal-e orthographic alias
+Acetylcystein,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Acetylsalicylat,Unresolved,M5,No uniquely identified ingredient
+Acetylsalicyls,Unresolved,M5,No uniquely identified ingredient
+Acyclovir,Unresolved,M5,No uniquely identified ingredient
+ADENOsin,C01E,M2,Explicit salt or terminal-e orthographic alias
+Agomelatin,N06A,M2,Explicit salt or terminal-e orthographic alias
+Aktivkohle,Unresolved,M5,No uniquely identified ingredient
+Alfentanil,N01A,M1,Exact generic ingredient
+Allopurinol,M04A,M1,Exact generic ingredient
+Alprazolam,N05B,M1,Exact generic ingredient
+Alprostadil,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Alteplase,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Amantadinsulfat,Unresolved,M5,No uniquely identified ingredient
+Amikacin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Amilorid+HCT,Unresolved,M7,Combination without a unique class
+AMIOdaron,C01B,M2,Explicit salt or terminal-e orthographic alias
+Amitriptylin,N06A,M2,Explicit salt or terminal-e orthographic alias
+Amlodipin,C08C,M2,Explicit salt or terminal-e orthographic alias
+Amlodipin besilat+Valsartan+HCT,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Amoxicillin/Clavulans,Unresolved,M7,Combination without a unique class
+Amphotericin B,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Ampicillin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Ampicillin/Sulbactam,J01C,M3,Multiple ingredients with one common ATC3 class
+Anastrozol,L02B,M2,Explicit salt or terminal-e orthographic alias
+Anidulafungin,J02A,M1,Exact generic ingredient
+Antithrombin III,B01A,M1,Exact generic ingredient
+Apixaban,B01A,M1,Exact generic ingredient
+Argatroban,B01A,M1,Exact generic ingredient
+Aripiprazol,N05A,M2,Explicit salt or terminal-e orthographic alias
+Atenolol,C07A,M1,Exact generic ingredient
+Atorvastatin,C10A,M1,Exact generic ingredient
+Atropin sulfuricum,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Azathioprin,L04A,M2,Explicit salt or terminal-e orthographic alias
+Azithromycin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Baclofen,M03B,M1,Exact generic ingredient
+Beclometason und Formeterol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Benzydamin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Bezafibrat,C10A,M2,Explicit salt or terminal-e orthographic alias
+Bicalutamid,L02B,M2,Explicit salt or terminal-e orthographic alias
+Biperidin,Unresolved,M5,No uniquely identified ingredient
+Biperidin Ret.,Unresolved,M5,No uniquely identified ingredient
+Bisacodyl,A06A,M1,Exact generic ingredient
+Bisoprolol,C07A,M1,Exact generic ingredient
+Bisoprolol fumarat,C07A,M1,Exact generic ingredient
+Bisoprolol+HCT,Unresolved,M7,Combination without a unique class
+Bisoprolol-hemi-fumarat,C07A,M1,Exact generic ingredient
+Bosentan-1-Wasser,C02K,M1,Exact generic ingredient
+Brinzolamid,S01E,M2,Explicit salt or terminal-e orthographic alias
+Bromazepam,N05B,M1,Exact generic ingredient
+Brotizolam,N05C,M1,Exact generic ingredient
+Budesonid,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Budesonid und Formeterol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+BUPivacain 0.5%,N01B,M2,Explicit salt or terminal-e orthographic alias
+BUPivacain 0.5% hyperbar,N01B,M2,Explicit salt or terminal-e orthographic alias
+Buprenorphin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Bupropion,N06A,M1,Exact generic ingredient
+Cabergolin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cafedrin-Theodrenalin,C01C,M3,Multiple ingredients with one common ATC3 class
+Calcitriol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Calcium gluc.,Unresolved,M5,No uniquely identified ingredient
+Calcium/Vit D,Unresolved,M5,No uniquely identified ingredient
+Calciumglukonat 10%,Unresolved,M5,No uniquely identified ingredient
+Candesartan,C09C,M1,Exact generic ingredient
+Candesartan +HCT,Unresolved,M7,Combination without a unique class
+Captopril,C09A,M1,Exact generic ingredient
+Carbamazepin,N03A,M2,Explicit salt or terminal-e orthographic alias
+Carbetocin,H01B,M1,Exact generic ingredient
+Caroverin,A03A,M2,Explicit salt or terminal-e orthographic alias
+Carvedilol,C07A,M1,Exact generic ingredient
+Caspofungin,J02A,M1,Exact generic ingredient
+Cefazolin,J01D,M1,Exact generic ingredient
+Cefepim,J01D,M2,Explicit salt or terminal-e orthographic alias
+Cefotaxim,J01D,M2,Explicit salt or terminal-e orthographic alias
+Ceftazidim,J01D,M2,Explicit salt or terminal-e orthographic alias
+Ceftriaxon,J01D,M2,Explicit salt or terminal-e orthographic alias
+Cefuroxim,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Celecoxib,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cetrimid und Carbopol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cetylpyridinium,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cetylpyridinium chlorid 1-Wasser,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Chlorhexidin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Chloroquin,P01B,M2,Explicit salt or terminal-e orthographic alias
+Chlorprothixen,N05A,M2,Explicit salt or terminal-e orthographic alias
+Ciclesonid,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Ciclosporin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cilazapril,C09A,M1,Exact generic ingredient
+Cinacalcet hydrochlorid,H05B,M1,Exact generic ingredient
+Ciprofloxacin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cisatracurium,M03A,M1,Exact generic ingredient
+Citalopram,N06A,M1,Exact generic ingredient
+Clarithromycin,J01F,M1,Exact generic ingredient
+CLEMAstin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Clindamycin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Clobazam,N05B,M1,Exact generic ingredient
+Clomipramin,N06A,M2,Explicit salt or terminal-e orthographic alias
+ClonazePAM,N03A,M1,Exact generic ingredient
+CloNIDin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Clopidogrel,B01A,M1,Exact generic ingredient
+Colistimethat,Unresolved,M5,No uniquely identified ingredient
+Colistin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Cyanocobolamin,Unresolved,M5,No uniquely identified ingredient
+Cyclophosphamid,L01A,M2,Explicit salt or terminal-e orthographic alias
+Cyclosporin A,Unresolved,M5,No uniquely identified ingredient
+Dabigatran,Unresolved,M5,No uniquely identified ingredient
+Dalteparin,B01A,M1,Exact generic ingredient
+Danaparoid,B01A,M1,Exact generic ingredient
+Dapagliflozin,A10B,M1,Exact generic ingredient
+Dapagliflozin+Metformin hydrochlorid 5/1000,A10B,M3,Multiple ingredients with one common ATC3 class
+Dapagliflozin+Metformin hydrochlorid 5/850,A10B,M3,Multiple ingredients with one common ATC3 class
+Daptomycin,J01X,M1,Exact generic ingredient
+Desloratadin,R06A,M2,Explicit salt or terminal-e orthographic alias
+DesmoPRESSINazetat,Unresolved,M5,No uniquely identified ingredient
+DEXAmethason,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Dexmedetomidin,N05C,M2,Explicit salt or terminal-e orthographic alias
+Dexpanthenol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Diazepam,N05B,M1,Exact generic ingredient
+Diclofenac,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Diclofenac+Orphenadrincitrat,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Digitoxin,C01A,M1,Exact generic ingredient
+DihydrALAZIN,C02D,M2,Explicit salt or terminal-e orthographic alias
+Dihydrocodein,N02A,M2,Explicit salt or terminal-e orthographic alias
+Diltiazem,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Dimetinden maleat,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Diphenhydramin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Distigmin,N07A,M2,Explicit salt or terminal-e orthographic alias
+DOBUtamin,C01C,M2,Explicit salt or terminal-e orthographic alias
+Domperidon,A03F,M2,Explicit salt or terminal-e orthographic alias
+Donepezil,N06D,M1,Exact generic ingredient
+DOPamin,C01C,M2,Explicit salt or terminal-e orthographic alias
+Doxazosin,C02C,M1,Exact generic ingredient
+Doxycyclin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Doxycyclin monohydrat,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Dronedaron hydrochlorid,C01B,M2,Explicit salt or terminal-e orthographic alias
+Droperidol,N05A,M1,Exact generic ingredient
+Duloxetin,N06A,M2,Explicit salt or terminal-e orthographic alias
+Dutasterid,G04C,M2,Explicit salt or terminal-e orthographic alias
+Econazol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Efavirenz,J05A,M1,Exact generic ingredient
+Eisen II,Unresolved,M5,No uniquely identified ingredient
+Eisen Saccharose,Unresolved,M5,No uniquely identified ingredient
+Enalapril,C09A,M1,Exact generic ingredient
+Enalapril maleat,C09A,M1,Exact generic ingredient
+Enalapril maleat+HCT,Unresolved,M7,Combination without a unique class
+Enalapril+HCT,Unresolved,M7,Combination without a unique class
+Enoxaparin prophylakt.,B01A,M1,Exact generic ingredient
+Enoxaparin therapeut.,B01A,M1,Exact generic ingredient
+Ephedrin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+EPINEPHrin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Eplerenon,C03D,M2,Explicit salt or terminal-e orthographic alias
+Eprosartan,C09C,M1,Exact generic ingredient
+Ertapenem,J01D,M1,Exact generic ingredient
+Erythromycin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Erythropoetin,Unresolved,M5,No uniquely identified ingredient
+Escitalopram,N06A,M1,Exact generic ingredient
+Esmolol,C07A,M1,Exact generic ingredient
+Esomeprazol,A02B,M2,Explicit salt or terminal-e orthographic alias
+Etacrynsaeure,Unresolved,M5,No uniquely identified ingredient
+Etilefrin,C01C,M2,Explicit salt or terminal-e orthographic alias
+Etomidate,N01A,M1,Exact generic ingredient
+Everolimus,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Excicial Hydrocreme,Unresolved,M5,No uniquely identified ingredient
+Exemestan,L02B,M2,Explicit salt or terminal-e orthographic alias
+Extractum fructus silybi mariani siccum,Unresolved,M5,No uniquely identified ingredient
+Ezetimib,C10A,M2,Explicit salt or terminal-e orthographic alias
+Ezetimib+Simvastatin,C10A,M3,Multiple ingredients with one common ATC3 class
+Faktor VIIa,Unresolved,M5,No uniquely identified ingredient
+Fenofibrat,C10A,M2,Explicit salt or terminal-e orthographic alias
+FentaNYL,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Fibrinogen,Unresolved,M5,No uniquely identified ingredient
+Filgrastim,L03A,M1,Exact generic ingredient
+Finasterid,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Fisch,Unresolved,M5,No uniquely identified ingredient
+Flavonoidfraktion,Unresolved,M5,No uniquely identified ingredient
+Flucloxacillin,J01C,M1,Exact generic ingredient
+Fluconazol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Fludrocortison,H02A,M2,Explicit salt or terminal-e orthographic alias
+Flumazenil,V03A,M1,Exact generic ingredient
+Flunitrazepam,N05C,M1,Exact generic ingredient
+Fluoxetin,N06A,M2,Explicit salt or terminal-e orthographic alias
+Flupentixol+Melitracen,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Fluticason,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Fluvastatin,C10A,M1,Exact generic ingredient
+Fols,Unresolved,M5,No uniquely identified ingredient
+Fondaparinux,B01A,M1,Exact generic ingredient
+Formoterol-fumarat-dihydrat,R03A,M1,Exact generic ingredient
+Fosfomycin,J01X,M1,Exact generic ingredient
+Fosinopril Natrium,C09A,M1,Exact generic ingredient
+FUROsemid,C03C,M2,Explicit salt or terminal-e orthographic alias
+Furosemid+Spironolacton,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Fusidins,Unresolved,M5,No uniquely identified ingredient
+Gabapentin,N03A,M1,Exact generic ingredient
+Galantamin,N06D,M2,Explicit salt or terminal-e orthographic alias
+Ganciclovir,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Gentamycin,Unresolved,M5,No uniquely identified ingredient
+Gentamycinsulfat,Unresolved,M5,No uniquely identified ingredient
+Gerinnungsfaktor XIII,Unresolved,M5,No uniquely identified ingredient
+"Gerinnungsfaktoren II, VI, IX, X",Unresolved,M5,No uniquely identified ingredient
+Ginkgoblatt Trockenextrakt,Unresolved,M5,No uniquely identified ingredient
+Gliclazid,A10B,M2,Explicit salt or terminal-e orthographic alias
+Glimepirid,A10B,M2,Explicit salt or terminal-e orthographic alias
+Gliquidon,A10B,M2,Explicit salt or terminal-e orthographic alias
+Glucagon hydrochlorid,H04A,M1,Exact generic ingredient
+Glucose-1-Phosphat,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Glutamin,A16A,M2,Explicit salt or terminal-e orthographic alias
+Glyceroltrinitrat,Unresolved,M5,No uniquely identified ingredient
+Glycopyrronium,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Glyzeroltrinitrat,Unresolved,M5,No uniquely identified ingredient
+Haloperidol,N05A,M1,Exact generic ingredient
+Heparin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+HuG-CSF,Unresolved,M5,No uniquely identified ingredient
+Hydrochlorothiazid,C03A,M2,Explicit salt or terminal-e orthographic alias
+Hydrochlorothiazid+Ramipril,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Hydrocortison,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+HYDROmorphon,N02A,M2,Explicit salt or terminal-e orthographic alias
+HYDROmorphon retard,N02A,M2,Explicit salt or terminal-e orthographic alias
+Hydroxycarbamid,L01X,M2,Explicit salt or terminal-e orthographic alias
+Hydroxyzin,N05B,M2,Explicit salt or terminal-e orthographic alias
+Hyoscin-N-Butylbromid,Unresolved,M5,No uniquely identified ingredient
+Ibuprofen,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Idarucizumab,V03A,M1,Exact generic ingredient
+Iloprost,B01A,M1,Exact generic ingredient
+Imatinib mesilat,L01E,M1,Exact generic ingredient
+Imipenem/Cilastin,Unresolved,M5,No uniquely identified ingredient
+Immunglobulin,Unresolved,M5,No uniquely identified ingredient
+Indapamid,C03B,M2,Explicit salt or terminal-e orthographic alias
+Insulin,A10A,M4,Unique RxNorm ingredient with direct ATC membership
+Insulin glargin,A10A,M4,Unique RxNorm ingredient with direct ATC membership
+Insulin lispro,A10A,M1,Exact generic ingredient
+Insulin-Aspart-Protamin-Kristall 30/70,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Insulin-Aspart-Protamin-Kristall 50/50,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Insulin-Aspart-Protamin-Kristall 70/30,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Insulin-Isophan,Unresolved,M5,No uniquely identified ingredient
+Ipratroprium und Fenoterol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Ipratropriumbromid,Unresolved,M5,No uniquely identified ingredient
+Isoniazid,J04A,M1,Exact generic ingredient
+Isoprenalin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Ivabradin,C01E,M2,Explicit salt or terminal-e orthographic alias
+Kalium,Unresolved,M5,No uniquely identified ingredient
+Kalium jodid+Levothyroxin natrium,Unresolved,M7,Combination without a unique class
+Kaliumcanrenoat,Unresolved,M5,No uniquely identified ingredient
+Kaliumchlorid,Unresolved,M5,No uniquely identified ingredient
+KETAmin,N01A,M2,Explicit salt or terminal-e orthographic alias
+Kybernin P,Unresolved,M5,No uniquely identified ingredient
+Labetalol,C07A,M1,Exact generic ingredient
+Lacosamid,N03A,M2,Explicit salt or terminal-e orthographic alias
+Lactobacillus casei,G01A,M1,Exact generic ingredient
+Lamotrigin,N03A,M2,Explicit salt or terminal-e orthographic alias
+Latanoprost,S01E,M1,Exact generic ingredient
+Leflunomid,L04A,M2,Explicit salt or terminal-e orthographic alias
+Lercanidipin,C08C,M2,Explicit salt or terminal-e orthographic alias
+LevETIRAcetam,N03A,M1,Exact generic ingredient
+Levocetirizin,R06A,M2,Explicit salt or terminal-e orthographic alias
+Levodopa +Benserazid,Unresolved,M7,Combination without a unique class
+Levodopa+Benserazid,Unresolved,M7,Combination without a unique class
+Levodopa/Carbidopa/Entacapon,N04B,M3,Multiple ingredients with one common ATC3 class
+Levofloxacin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Levomepromazin,N05A,M2,Explicit salt or terminal-e orthographic alias
+Levosimendan,C01C,M1,Exact generic ingredient
+LEVOthyroxin,H03A,M2,Explicit salt or terminal-e orthographic alias
+Lidocain 1%,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Lidocain 2%,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Linagliptin,A10B,M1,Exact generic ingredient
+Linezolid,J01X,M1,Exact generic ingredient
+Liposomales Amphotericin B,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Liraglutid,A10B,M2,Explicit salt or terminal-e orthographic alias
+Lisinopril,C09A,M1,Exact generic ingredient
+Lisinopril HCT,C09A,M1,Exact generic ingredient
+Lithium carbonat,N05A,M1,Exact generic ingredient
+LORazepam,N05B,M1,Exact generic ingredient
+Losartan,C09C,M1,Exact generic ingredient
+Losartan+HCT,Unresolved,M7,Combination without a unique class
+Macrogol,A06A,M1,Exact generic ingredient
+Macrogol 3350,A06A,M1,Exact generic ingredient
+Magnesium,Unresolved,M5,No uniquely identified ingredient
+Magnesiumgluconicum,Unresolved,M5,No uniquely identified ingredient
+Mefenamins,Unresolved,M5,No uniquely identified ingredient
+Melatonin,N05C,M1,Exact generic ingredient
+Meloxicam,M01A,M1,Exact generic ingredient
+Melperon hydrochlorid,N05A,M2,Explicit salt or terminal-e orthographic alias
+Memantin,N06D,M2,Explicit salt or terminal-e orthographic alias
+Mepivacain 1%,N01B,M2,Explicit salt or terminal-e orthographic alias
+"Mepivacain 1,5%",N01B,M2,Explicit salt or terminal-e orthographic alias
+Mepivacain 2%,N01B,M2,Explicit salt or terminal-e orthographic alias
+Meropenem,J01D,M1,Exact generic ingredient
+Mesalazin,A07E,M2,Explicit salt or terminal-e orthographic alias
+Mesna,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Metamizol,N02B,M2,Explicit salt or terminal-e orthographic alias
+Metamizol gtt,N02B,M2,Explicit salt or terminal-e orthographic alias
+Metformin,A10B,M1,Exact generic ingredient
+Metformin +Vildagliptin,A10B,M3,Multiple ingredients with one common ATC3 class
+Metformin hydrochlorid,A10B,M1,Exact generic ingredient
+Metformin+Sitagliptin,A10B,M3,Multiple ingredients with one common ATC3 class
+Methadon,N07B,M2,Explicit salt or terminal-e orthographic alias
+Methohexital,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Methotrexat,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Methylenblau,Unresolved,M5,No uniquely identified ingredient
+Methylnaltrexon,A06A,M2,Explicit salt or terminal-e orthographic alias
+Methylphenidat hydrochlorid,N06B,M2,Explicit salt or terminal-e orthographic alias
+MethylPREDNIsolon,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Metildigoxin,C01A,M1,Exact generic ingredient
+Metoclopramid,A03F,M2,Explicit salt or terminal-e orthographic alias
+Metoprolol,C07A,M1,Exact generic ingredient
+Metronidazol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Micafungin,J02A,M1,Exact generic ingredient
+Miconazol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Midazolam,N05C,M1,Exact generic ingredient
+Milnacipran hydrochlorid,N06A,M1,Exact generic ingredient
+Minoxidil,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Mirtazepin,Unresolved,M5,No uniquely identified ingredient
+Mivacurim,Unresolved,M5,No uniquely identified ingredient
+Moclobemid,N06A,M2,Explicit salt or terminal-e orthographic alias
+Morphin,N02A,M2,Explicit salt or terminal-e orthographic alias
+Morphinsulfat,Unresolved,M5,No uniquely identified ingredient
+Moxifloxacin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Moxonidin,C02A,M2,Explicit salt or terminal-e orthographic alias
+Mycophenolat,Unresolved,M5,No uniquely identified ingredient
+Mycophenolat mofetil,Unresolved,M5,No uniquely identified ingredient
+Mycostatin Zinkoxid Paste,Unresolved,M5,No uniquely identified ingredient
+N-Acetylcystein,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Nalbuphin,N02A,M2,Explicit salt or terminal-e orthographic alias
+Naloxon,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Naproxen Saft,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Naproxen TBL,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Natrium hydrogencarbonat,Unresolved,M5,No uniquely identified ingredient
+Natrium perchlorat,Unresolved,M5,No uniquely identified ingredient
+Natriumchlorid Sachet,Unresolved,M5,No uniquely identified ingredient
+Natriumglyzerophosphat,Unresolved,M5,No uniquely identified ingredient
+Natriumhydrogencarbonat,Unresolved,M5,No uniquely identified ingredient
+Natriumnitroprussid,Unresolved,M5,No uniquely identified ingredient
+Natriumpicosulfat,Unresolved,M5,No uniquely identified ingredient
+Natriumpolystyrensulfonat,Unresolved,M5,No uniquely identified ingredient
+Natriumvalproat,Unresolved,M5,No uniquely identified ingredient
+Nebivolol,C07A,M1,Exact generic ingredient
+Neostigmin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Nicht gelistete Inhalation,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistete Kurzinfusion,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistete Salbe/Creme,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistete Tropfen,Unresolved,M5,No uniquely identified ingredient
+Nicht gelisteter Perfusor,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes anderes Medikament,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes Antiinfektivum,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes Bolusmedikament,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes Gerinnungsmedikament,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes Gerinnungsmedikament IU,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes orales Medikament,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes sc Medikament IU,Unresolved,M5,No uniquely identified ingredient
+Nicht gelistetes sc Medikament mg,Unresolved,M5,No uniquely identified ingredient
+Nicorandil,C01D,M1,Exact generic ingredient
+Nicotin,N07B,M2,Explicit salt or terminal-e orthographic alias
+Nicotinamid+Thiamin+Riboflavin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+NIFEdipin,C08C,M2,Explicit salt or terminal-e orthographic alias
+NiMODipin,C08C,M2,Explicit salt or terminal-e orthographic alias
+Nitrendipin,C08C,M2,Explicit salt or terminal-e orthographic alias
+Nitrendipin +Enalapril,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Nitroglycerin,Unresolved,M5,No uniquely identified ingredient
+Norepinephrin,C01C,M2,Explicit salt or terminal-e orthographic alias
+ocTREOtid,H01C,M2,Explicit salt or terminal-e orthographic alias
+Oculotect Fluid Au-Tr,Unresolved,M5,No uniquely identified ingredient
+Ofloxacin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Olanzapin,N05A,M2,Explicit salt or terminal-e orthographic alias
+Olmesartan,Unresolved,M5,No uniquely identified ingredient
+Olmesartan+Amlodipin,Unresolved,M7,Combination without a unique class
+Omnibiotic AAD,Unresolved,M5,No uniquely identified ingredient
+On,Unresolved,M5,No uniquely identified ingredient
+ONDANsetron,A04A,M1,Exact generic ingredient
+Ornithinaspartat,Unresolved,M5,No uniquely identified ingredient
+Oseltamivir,J05A,M1,Exact generic ingredient
+Oxazepam,N05B,M1,Exact generic ingredient
+Oxcarbazepin,N03A,M2,Explicit salt or terminal-e orthographic alias
+Oxycodon,N02A,M2,Explicit salt or terminal-e orthographic alias
+Oxycodon ret,N02A,M2,Explicit salt or terminal-e orthographic alias
+Oxytocin,H01B,M1,Exact generic ingredient
+Pankreatin,Unresolved,M5,No uniquely identified ingredient
+Pantoprazol,A02B,M2,Explicit salt or terminal-e orthographic alias
+Paracetamol,N02B,M1,Exact generic ingredient
+Paromomycin,A07A,M1,Exact generic ingredient
+Paroxetinhydrochlorid-Hemihydrat,Unresolved,M5,No uniquely identified ingredient
+Passionsblumenkraut,Unresolved,M5,No uniquely identified ingredient
+Penicillin G,Unresolved,M5,No uniquely identified ingredient
+Pentoxifyllin,C04A,M2,Explicit salt or terminal-e orthographic alias
+Perampanel,N03A,M1,Exact generic ingredient
+Pethidin,N02A,M2,Explicit salt or terminal-e orthographic alias
+Phenprocoumon,B01A,M1,Exact generic ingredient
+Phenylephrin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Phenytoin,N03A,M1,Exact generic ingredient
+PHYSostigmin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Phytmenadion,Unresolved,M5,No uniquely identified ingredient
+Piperacillin/Tazobactam,J01C,M3,Multiple ingredients with one common ATC3 class
+Piracetam,N06B,M1,Exact generic ingredient
+PIRItramid,N02A,M2,Explicit salt or terminal-e orthographic alias
+Posaconazol,J02A,M2,Explicit salt or terminal-e orthographic alias
+Pramipexol,N04B,M2,Explicit salt or terminal-e orthographic alias
+Prasugrel,B01A,M1,Exact generic ingredient
+Pravastatin,C10A,M1,Exact generic ingredient
+PredniSOLON,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Pregabalin,N03A,M1,Exact generic ingredient
+Prilocain 1%,N01B,M2,Explicit salt or terminal-e orthographic alias
+Primidon,N03A,M2,Explicit salt or terminal-e orthographic alias
+Promethazin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Propafenon,C01B,M2,Explicit salt or terminal-e orthographic alias
+Propofol 1%,N01A,M1,Exact generic ingredient
+Propofol 2%,N01A,M1,Exact generic ingredient
+Propranolol,C07A,M1,Exact generic ingredient
+Protaminsulfat,Unresolved,M5,No uniquely identified ingredient
+Prothipendyl,N05A,M1,Exact generic ingredient
+Protifar,Unresolved,M5,No uniquely identified ingredient
+Pyrazinamid,J04A,M2,Explicit salt or terminal-e orthographic alias
+Pyridostigmin bromid,N07A,M2,Explicit salt or terminal-e orthographic alias
+Quetiapin,N05A,M2,Explicit salt or terminal-e orthographic alias
+Ramipril,C09A,M1,Exact generic ingredient
+Ramipril/HCT,Unresolved,M7,Combination without a unique class
+Ranitidin,A02B,M2,Explicit salt or terminal-e orthographic alias
+Rasagilin,N04B,M2,Explicit salt or terminal-e orthographic alias
+Remifentanil,N01A,M1,Exact generic ingredient
+Retinol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Retinol und Dexpantenol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Rifampicin,J04A,M1,Exact generic ingredient
+Rifaximin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Rilmenidin,C02A,M2,Explicit salt or terminal-e orthographic alias
+Rilmenidin dihydrogenphosphat,C02A,M2,Explicit salt or terminal-e orthographic alias
+Risperidon,N05A,M2,Explicit salt or terminal-e orthographic alias
+Rivaroxaban,B01A,M1,Exact generic ingredient
+Rivastigmin,N06D,M2,Explicit salt or terminal-e orthographic alias
+ROCuronium,M03A,M2,Explicit salt or terminal-e orthographic alias
+Roflumilast,R03D,M1,Exact generic ingredient
+Ropinirol,N04B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain,N01B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain 0.15%,N01B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain 0.2%,N01B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain 0.375%,N01B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain 0.5%,N01B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain 0.75%,N01B,M2,Explicit salt or terminal-e orthographic alias
+ROPIvacain 1%,N01B,M2,Explicit salt or terminal-e orthographic alias
+Rosuvastatin,C10A,M1,Exact generic ingredient
+Rotigotin,N04B,M2,Explicit salt or terminal-e orthographic alias
+S-Ketamin,N01A,M2,Explicit salt or terminal-e orthographic alias
+Salbutamol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Salmeterol,R03A,M1,Exact generic ingredient
+Salmeterol/Fluticason,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Scopolamin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Sertralin,N06A,M2,Explicit salt or terminal-e orthographic alias
+Sevelamer,V03A,M1,Exact generic ingredient
+Sevelamercarbonat,Unresolved,M5,No uniquely identified ingredient
+Sevofluran (Anaconda),N01A,M2,Explicit salt or terminal-e orthographic alias
+Sildenafil,G04B,M1,Exact generic ingredient
+Simeticon,Unresolved,M5,No uniquely identified ingredient
+Simvastatin,C10A,M1,Exact generic ingredient
+Sitagliptin phosphat 1 H2O,A10B,M1,Exact generic ingredient
+Somatostatin,H01C,M1,Exact generic ingredient
+Sotalol,C07A,M1,Exact generic ingredient
+Spironolacton,C03D,M2,Explicit salt or terminal-e orthographic alias
+Succinylcholin,Unresolved,M5,No uniquely identified ingredient
+Sucralfat,A02B,M2,Explicit salt or terminal-e orthographic alias
+SUFentanil,N01A,M1,Exact generic ingredient
+Sugammadex,V03A,M1,Exact generic ingredient
+Sulfametoxazol+Trimethoprim,Unresolved,M7,Combination without a unique class
+Tacrolimus,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Tamsulosin,G04C,M1,Exact generic ingredient
+Tamsulosin retard,G04C,M1,Exact generic ingredient
+Tantum verde Lutschtabletten,Unresolved,M5,No uniquely identified ingredient
+Teicoplanin,J01X,M1,Exact generic ingredient
+Telmisartan,C09C,M1,Exact generic ingredient
+Tenecteplase,B01A,M1,Exact generic ingredient
+Tenofovir disoproxil+Emtricitabin,J05A,M3,Multiple ingredients with one common ATC3 class
+Terbinafin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Terbutalin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Terlipressin,H01B,M1,Exact generic ingredient
+Tetanus Toxoid,J07A,M1,Exact generic ingredient
+Tetracosactid,H01A,M2,Explicit salt or terminal-e orthographic alias
+Tetrazepam,M03B,M1,Exact generic ingredient
+Theophyllin,R03D,M2,Explicit salt or terminal-e orthographic alias
+Thiamazol,H03B,M2,Explicit salt or terminal-e orthographic alias
+Thiamin,A11D,M4,Unique RxNorm ingredient with direct ATC membership
+Thiamin+Pyridoxin+Cyanocobalamin,Unresolved,M7,Combination without a unique class
+Thiaminhydrochlorid,Unresolved,M5,No uniquely identified ingredient
+Thiopentalnatrium,Unresolved,M5,No uniquely identified ingredient
+Tiaprid,N05A,M2,Explicit salt or terminal-e orthographic alias
+Ticagrelor,B01A,M1,Exact generic ingredient
+Tigecyclin,J01A,M2,Explicit salt or terminal-e orthographic alias
+Tiotropium,R03B,M2,Explicit salt or terminal-e orthographic alias
+"Tiotropium Lsg 2,5",R03B,M2,Explicit salt or terminal-e orthographic alias
+"Tiotropium+Olodaterol 2,5/2,5",Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Tizanidin,M03B,M2,Explicit salt or terminal-e orthographic alias
+Tolterodin-L-tartrat,G04B,M2,Explicit salt or terminal-e orthographic alias
+Topiramat,N03A,M2,Explicit salt or terminal-e orthographic alias
+Torasemid,C03C,M2,Explicit salt or terminal-e orthographic alias
+traMADol,N02A,M1,Exact generic ingredient
+Tranexams,Unresolved,M5,No uniquely identified ingredient
+Trazodon ret,N06A,M2,Explicit salt or terminal-e orthographic alias
+Triazolam,N05C,M1,Exact generic ingredient
+Trimethoprim/Sulfametoxazol,Unresolved,M7,Combination without a unique class
+Trometamol,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Trospium chlorid,G04B,M1,Exact generic ingredient
+Urapidil,C02C,M1,Exact generic ingredient
+Urokinase,B01A,M1,Exact generic ingredient
+Ursodeoxychols,Unresolved,M5,No uniquely identified ingredient
+Valaciclovir,J05A,M1,Exact generic ingredient
+Valganciclovir,J05A,M1,Exact generic ingredient
+Valproins,Unresolved,M5,No uniquely identified ingredient
+Valsartan,C09C,M1,Exact generic ingredient
+Valsartan+Amlodipin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Valsartan+HCT,Unresolved,M7,Combination without a unique class
+Vancomycin,Unresolved,M6,Ingredient maps to multiple ATC3 classes
+Vasopressin,Unresolved,M5,No uniquely identified ingredient
+Venlafaxin,N06A,M2,Explicit salt or terminal-e orthographic alias
+Verapamil,C08D,M1,Exact generic ingredient
+Vildagliptin,A10B,M1,Exact generic ingredient
+Vitamin D3,Unresolved,M5,No uniquely identified ingredient
+Voriconazol,J02A,M2,Explicit salt or terminal-e orthographic alias
+Xipamid,C03B,M2,Explicit salt or terminal-e orthographic alias
+Ziprasidon,N05A,M2,Explicit salt or terminal-e orthographic alias
+Zolpidem,N05C,M1,Exact generic ingredient
+Zolpidem tartrat 2,N05C,M1,Exact generic ingredient
+Zuclopenthixol decanoat,N05A,M1,Exact generic ingredient
+ZzColistin,Unresolved,M5,No uniquely identified ingredient
+ZzRamipril HCT,Unresolved,M5,No uniquely identified ingredient
+ZzRamipril/HCT,Unresolved,M5,No uniquely identified ingredient
