@@ -100,8 +100,8 @@
       "sha256": "12c2b3211883206a891cc17b2f83bdb523dbbe09e1021d2431a28e0e3bca5b05"
     },
     "references.bib": {
-      "bytes": 9893,
-      "sha256": "8657ab46a309b129db810a62ab6cfa2b7a5afef06aade901513b47381701f574"
+      "bytes": 12113,
+      "sha256": "183b18aaff86f6821e74f4c76bdaa32466f2aefbb558138fe92b8caa1b546aeb"
     },
     "requirements-tested.txt": {
       "bytes": 223,
