@@ -2,6 +2,8 @@
 
 **Clinical Evidence-Guided Residual Learning for Medication Recommendation with Dynamic DDI Regularization**
 
+[Anonymous review repository](https://anonymous.4open.science/r/EviDrug-B7C7/)
+
 EviDrug recommends medication sets from clinical codes and medication history. A structured visit encoder, training-case memory and one medication-set interaction block form the clinical-memory backbone. A residual evidence head refines its logits, and epoch-wise DDI feedback adjusts the training objective.
 
 The selected model uses **zero clinical Transformer layers**, **one medication-set interaction block**, and **no medication-graph representation branch**. All embeddings are trained on the study cohort.
