@@ -1,0 +1,50 @@
+{
+  "model_version": "clinical_memory_dynamic_20261104",
+  "methods": [
+    "RETAIN",
+    "Deepr",
+    "Transformer",
+    "GAMENet",
+    "MeLU",
+    "MICRON",
+    "SafeDrug",
+    "COGNet",
+    "MoleRec",
+    "ARCI",
+    "SSPNet",
+    "MetaDrug",
+    "EviDrug"
+  ],
+  "partition": "validation",
+  "patients_per_dataset": 128,
+  "batch_size": 16,
+  "cpu_threads": 1,
+  "dtype": "float32",
+  "seed": 0,
+  "warmup_passes": 1,
+  "measured_passes": 3,
+  "timing_statistic": "Median of three complete passes, amortized per patient.",
+  "method_order": "First measured pass uses listed order; second reverses it; third rotates by six methods.",
+  "included": [
+    "query retrieval when used",
+    "clinical features when used",
+    "collation",
+    "prediction including native support adaptation/decoding",
+    "selection"
+  ],
+  "excluded": [
+    "data loading",
+    "model loading",
+    "immutable training-resource initialization",
+    "warm-up",
+    "diagnostic copies and validation replay checks"
+  ],
+  "query_prediction_cache": false,
+  "baseline_execution": "Native implementations and decoding with their selected trained weights; MetaDrug includes UF.",
+  "evidrug_execution": "Registered exact serving implementation; only immutable training-case representations are precomputed.",
+  "native_serving_max_error": 1e-06,
+  "same_cpu_repeat_max_error": 1e-06,
+  "historical_cpu_gpu_diagnostic_bound": 0.005,
+  "historical_replay_availability": "Compare stored GPU probabilities where available; legacy SICdb validation probability files were not saved. Same-CPU repeated predictions and selected-checkpoint verification apply to all 39 pipelines.",
+  "historical_decoder_diagnostic": "COGNet native decoding is checked for same-CPU repeat agreement; stored GPU scores are diagnostic."
+}

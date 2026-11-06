@@ -1,0 +1,17 @@
+{
+  "mimic_iv_full": {
+    "torch": "2.14.0+cu130",
+    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+    "cpu": "Intel(R) Xeon(R) Platinum 8352V CPU @ 2.10GHz"
+  },
+  "nwicu": {
+    "torch": "2.14.0+cu130",
+    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+    "cpu": "Intel(R) Xeon(R) Platinum 8352V CPU @ 2.10GHz"
+  },
+  "sicdb": {
+    "torch": "2.14.0+cu130",
+    "platform": "Linux-6.8.0-138-generic-x86_64-with-glibc2.35",
+    "cpu": "Intel(R) Xeon(R) Platinum 8352V CPU @ 2.10GHz"
+  }
+}

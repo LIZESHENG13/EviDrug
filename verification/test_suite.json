@@ -1,0 +1,18 @@
+{
+  "passed": true,
+  "tests": 22,
+  "synthetic_only": true,
+  "clinical_data_read": false,
+  "checks": [
+    "all five model arms",
+    "three cohort parameter counts",
+    "query-label independence",
+    "three-stage training",
+    "paired fixed coefficient continuation",
+    "freeze mutation rejection",
+    "full online serving parity",
+    "source-specific preparation rules",
+    "objective gradients",
+    "clinical analysis metrics"
+  ]
+}

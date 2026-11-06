@@ -1,0 +1,83 @@
+{
+  "model_version": "clinical_memory_dynamic_20261104",
+  "training": {
+    "dtype": "float32",
+    "batch": 64,
+    "epochs_each_stage": 20,
+    "optimizer": "Unchanged registered AdamW parameter groups, losses, seeds and patient-prefix schedule.",
+    "initialization": "Backbone seed; refinement seed+4100; continuation seed+7100. Fresh optimizer at each stage.",
+    "selection": "Stage1/2 maximum validation AP earliest. Continuation includes epoch0, original arm-relative quality guard then minimum DDI. B1 includes epoch0 and maximum AP.",
+    "dynamic": "Train monitor only; target .9*initial hardDDI; lambda0=1, lr20, clipped[0,10].",
+    "sharing": "Graph-free main reuses original no_graph F/D; matched controls initialize at that F. All ablations refit graph-free heads on their exact original independent backbone.",
+    "fixed_weights": {
+      "continue_zero": 0.0,
+      "fixed_005": 0.05,
+      "fixed_010": 0.1,
+      "fixed": 1.0
+    }
+  },
+  "analysis": {
+    "primary_metrics": [
+      "prauc",
+      "f1",
+      "jaccard",
+      "ddi"
+    ],
+    "threshold": 0.3,
+    "continued_new": "micro F1 for each history-union candidate partition; arithmetic mean.",
+    "burden_bins": [
+      0,
+      6,
+      11
+    ],
+    "history_bins": [
+      1,
+      3,
+      6
+    ],
+    "frequency_quantiles": [
+      0.25,
+      0.5,
+      0.75
+    ],
+    "association_count_bins": [
+      0,
+      1,
+      3,
+      10
+    ],
+    "thresholds": [
+      0.1,
+      0.2,
+      0.3,
+      0.4,
+      0.5,
+      0.6,
+      0.7,
+      0.8,
+      0.9
+    ],
+    "topk_training_count_quantiles": [
+      0.25,
+      0.5,
+      0.75,
+      0.9
+    ],
+    "bootstrap_replicates": 2000,
+    "bootstrap_seed": 20261103,
+    "baseline_bootstrap_scope": "Patient-paired, average over three EviDrug seeds versus the one fixed existing baseline seed; conditional on those fitted models, not seed-paired baseline inference.",
+    "inference_batch": 16,
+    "inference_cpu_threads": 1,
+    "inference_patients": 128,
+    "inference_passes": 3
+  },
+  "interventions": {
+    "full": "Medication identity/history and clinical associations; no graph representation branch; dynamic DDI retained.",
+    "no_history": "Same graph-free head on the original independently trained history-free backbone.",
+    "no_memory": "Same graph-free head on the original independently trained case-memory-free backbone.",
+    "no_set": "Same graph-free head on the original independently trained set-block-free backbone.",
+    "no_clinical": "Remove clinical associations from the graph-free model; same full backbone.",
+    "controls": "Zero/fixed coefficients .05/.1/1 share each selected graph-free fusion checkpoint."
+  },
+  "comparison_scope": "Retrospective development evaluation; graph removal explicitly chosen by user after prior results. Existing baseline single-seed budgets retained."
+}

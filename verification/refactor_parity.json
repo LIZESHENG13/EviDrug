@@ -1,0 +1,131 @@
+{
+  "passed": true,
+  "synthetic_only": true,
+  "clinical_records_read": false,
+  "arms": [
+    {
+      "arm": "full",
+      "retrieval_exact": true,
+      "model_input_batch_exact": true,
+      "maximum_prediction_error": 0.0,
+      "maximum_evidence_error": 0.0,
+      "maximum_gradient_error": 0.0,
+      "maximum_backbone_error": 0.0,
+      "parameters": 800087
+    },
+    {
+      "arm": "no_history",
+      "retrieval_exact": true,
+      "model_input_batch_exact": true,
+      "maximum_prediction_error": 0.0,
+      "maximum_evidence_error": 0.0,
+      "maximum_gradient_error": 0.0,
+      "maximum_backbone_error": 0.0,
+      "parameters": 800087
+    },
+    {
+      "arm": "no_memory",
+      "retrieval_exact": true,
+      "model_input_batch_exact": true,
+      "maximum_prediction_error": 0.0,
+      "maximum_evidence_error": 0.0,
+      "maximum_gradient_error": 0.0,
+      "maximum_backbone_error": 0.0,
+      "parameters": 774544
+    },
+    {
+      "arm": "no_set",
+      "retrieval_exact": true,
+      "model_input_batch_exact": true,
+      "maximum_prediction_error": 0.0,
+      "maximum_evidence_error": 0.0,
+      "maximum_gradient_error": 0.0,
+      "maximum_backbone_error": 0.0,
+      "parameters": 650966
+    },
+    {
+      "arm": "no_clinical",
+      "retrieval_exact": true,
+      "model_input_batch_exact": true,
+      "maximum_prediction_error": 0.0,
+      "maximum_evidence_error": 0.0,
+      "maximum_gradient_error": 0.0,
+      "maximum_backbone_error": 0.0,
+      "parameters": 782935
+    }
+  ],
+  "historical_checkpoints": [
+    {
+      "dataset": "mimic_iv_full",
+      "seed": 0,
+      "checkpoint_sha256": "f044d952165e4a57eb059563509652b92abd4955dac589d7431159a55170477e",
+      "parameters": 7766432,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "mimic_iv_full",
+      "seed": 1,
+      "checkpoint_sha256": "d7b66c11f299d6c571c2433f8ecbc94bdacea715938fdb966cbed393e40dd3b1",
+      "parameters": 7766432,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "mimic_iv_full",
+      "seed": 2,
+      "checkpoint_sha256": "c17951bafe29ec2ee95405ece70ddeb201d85b816b713aaa2784eba187191138",
+      "parameters": 7766432,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "nwicu",
+      "seed": 0,
+      "checkpoint_sha256": "6efe4fbbf4dd4cd7926d79f0dae6b1c5fe66d180bf2495beedfef4f6c49a4ecf",
+      "parameters": 2142330,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "nwicu",
+      "seed": 1,
+      "checkpoint_sha256": "75e91d3ace0d730f18d2dd7593b3c02e38fbf3de5cc7e39ad7957b3564241868",
+      "parameters": 2142330,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "nwicu",
+      "seed": 2,
+      "checkpoint_sha256": "3c0da40eb25940920e2e25554119b8d4371eacdead7e99404cdeb5159c854a34",
+      "parameters": 2142330,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "sicdb",
+      "seed": 0,
+      "checkpoint_sha256": "a8002ab7778587e408b9f71ad71d8d32047eef285550d912f8ee9cc0b22ba282",
+      "parameters": 1068728,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "sicdb",
+      "seed": 1,
+      "checkpoint_sha256": "aa36c4709691e8cf02d5e9ecc5c45359a6e43189aa1d66a333c5d07b748ae12c",
+      "parameters": 1068728,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    },
+    {
+      "dataset": "sicdb",
+      "seed": 2,
+      "checkpoint_sha256": "6f611e3ee954d7179a15a14a56941747f9c2e66a5acd2e61bd5288ca1f723a91",
+      "parameters": 1068728,
+      "maximum_logit_error": 0.0,
+      "generated_inputs_only": true
+    }
+  ]
+}

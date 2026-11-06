@@ -1,0 +1,362 @@
+{
+  "model_version": "clinical_memory_dynamic_20261104",
+  "package_version": "0.1.0",
+  "public_url": "https://github.com/LIZESHENG13/EviDrug",
+  "files": {
+    ".github/workflows/tests.yml": {
+      "bytes": 528,
+      "sha256": "1da63f6f21fb210b43520913e1739b9fece76347c4933359ea885dbf92399ac0"
+    },
+    ".gitignore": {
+      "bytes": 203,
+      "sha256": "e736fe776dcd9e92b6c11854cf119ae1a12b9ebed588dfe1b40d8b1658e9d56d"
+    },
+    "LICENSE": {
+      "bytes": 1078,
+      "sha256": "233a45bfdd018de6991533f3e4f38572bd11138700591e2911196d50288a9e59"
+    },
+    "NOTICE.md": {
+      "bytes": 1241,
+      "sha256": "c7a37cda1e84af7e2b09f05caafee77112ac2dca81b90cf0a2daa5e9f1318563"
+    },
+    "PROVENANCE.json": {
+      "bytes": 1104,
+      "sha256": "2cb2e02bc33c3210451b4989fa9dcf87f3225b8192415e2b030a1bf4e5192dd7"
+    },
+    "README.md": {
+      "bytes": 5157,
+      "sha256": "989a39d2214bf2c7caab934b77634786a396d1f938bc078fc2642a0f90fb77c3"
+    },
+    "configs/cohorts.json": {
+      "bytes": 1149,
+      "sha256": "a12c36985dfc0243fea12b105b71afd3c54e3eaca5c08e7c67948a724e2a3976"
+    },
+    "configs/efficiency_protocol.json": {
+      "bytes": 1790,
+      "sha256": "8611e6927b27f96f9936c3db3f1ea530cb7f7269ebdc5c02445abde987c51dee"
+    },
+    "configs/groups/mimic_iv_full.json": {
+      "bytes": 632,
+      "sha256": "2af87423cb783b2b6640986bd24dcfd6513f11b534b85d029f315fe8a85f9cd9"
+    },
+    "configs/groups/nwicu.json": {
+      "bytes": 626,
+      "sha256": "b52e6a7ae1f8429f1436615bf61e612330e01fe7a1de95841ec48c8ce2a39ce3"
+    },
+    "configs/groups/sicdb.json": {
+      "bytes": 626,
+      "sha256": "5363c3eddbad976a66c4bdae0f97f257ef895962463366adb8c4afd46771261b"
+    },
+    "configs/measured_environment.json": {
+      "bytes": 524,
+      "sha256": "43b60378d4d9ece43ba855324fd11016eb008e360bdd131f89ef7430532f4040"
+    },
+    "configs/model.json": {
+      "bytes": 1045,
+      "sha256": "5c31f55d354877750c430cb6c0f8250d204962ddca7f1d200e25d092d890250d"
+    },
+    "configs/resource_checksums.json": {
+      "bytes": 623,
+      "sha256": "ebdb9551ea7c7dbe10d7bb1d467b7b6a8a89a8a959c9a322a73ae58f5fab1dd0"
+    },
+    "configs/sicdb_drug_mapping.json": {
+      "bytes": 53927,
+      "sha256": "c6307a740679a9090b3466832a6fd0cde17466fd159f0a8f1d2a1dc80eb223fb"
+    },
+    "configs/study_design.json": {
+      "bytes": 2872,
+      "sha256": "93187ea3fecc9e6091f1bfb264cc510e505a760c08fb9818fa267c7b9f075d95"
+    },
+    "configs/tested_environment.json": {
+      "bytes": 413,
+      "sha256": "0b26386b1ffde31405c5fc1cf01edd3f2c41b8c03c41e4b78902cf5904c2ef2d"
+    },
+    "configs/training.json": {
+      "bytes": 948,
+      "sha256": "a6227319b83644d170250009f8002258f07ecc486f893dcbeaea9ee5d2799cf8"
+    },
+    "docs/architecture.md": {
+      "bytes": 4152,
+      "sha256": "cb9a14cf1fed30097f184c9b9efdb552aa4c367a6b5157fd90e74d818bf9b93b"
+    },
+    "docs/data.md": {
+      "bytes": 7124,
+      "sha256": "91c38e6f1714665375e25413d597ac1ea1b38804b0813fef0e18de125d04d717"
+    },
+    "docs/experiments.md": {
+      "bytes": 9542,
+      "sha256": "1b8cb0177e4192ef8ee62ad62fa4a90d8903f8ce168530fe0ffddb97fffb2390"
+    },
+    "docs/reproduction.md": {
+      "bytes": 5529,
+      "sha256": "9947266fcc24d7331cc1f021bfe0bf607ffac6d6447ca5dfe0a0de1bf993af42"
+    },
+    "docs/results.md": {
+      "bytes": 5498,
+      "sha256": "05b0545a979ac9a6243ab4fb9a0ee395f54d65d92147b091833280b327b4710c"
+    },
+    "pyproject.toml": {
+      "bytes": 906,
+      "sha256": "12c2b3211883206a891cc17b2f83bdb523dbbe09e1021d2431a28e0e3bca5b05"
+    },
+    "references.bib": {
+      "bytes": 9893,
+      "sha256": "8657ab46a309b129db810a62ab6cfa2b7a5afef06aade901513b47381701f574"
+    },
+    "requirements-tested.txt": {
+      "bytes": 223,
+      "sha256": "f352b05374dd84c10564a4d33557e4250acb47283b77c73aaac49f46c7e1d2ba"
+    },
+    "requirements.txt": {
+      "bytes": 5,
+      "sha256": "0cac0e472eba3359aa79e9674ff11a5fd0484b9c465fc1cb774c30938edcc5d7"
+    },
+    "results/aggregate_metrics.json": {
+      "bytes": 66144,
+      "sha256": "c275e54cdcff42b53fb6aa60a5451c7b3642711b8dba6e6e259d84599b184ac6"
+    },
+    "results/analysis/clinical_support.csv": {
+      "bytes": 3964,
+      "sha256": "8e2d1b965df5398cd2857cc51b230637c418d3554835c794063a06ede7d13d32"
+    },
+    "results/analysis/continued_new.csv": {
+      "bytes": 25517,
+      "sha256": "698d1683a829f110d3dfbfd0ec8cf4c5b874909f2e8e917e02205baafdd76521"
+    },
+    "results/analysis/equal_k.csv": {
+      "bytes": 43406,
+      "sha256": "8bbd739e914ec9f5c54c86e158da6ce4854cc78467ddf1d263801309615f2d47"
+    },
+    "results/analysis/history_depth.csv": {
+      "bytes": 55496,
+      "sha256": "d2b68159fc136e3689a586f892f3089bad606a89762b262bcd4db23d11a1278f"
+    },
+    "results/analysis/medication_frequency.csv": {
+      "bytes": 57661,
+      "sha256": "5c47eb7ed6db4bfad59159218faa60e3ce4283146f86452eb19abea9e3b2114d"
+    },
+    "results/analysis/paired_bootstrap.csv": {
+      "bytes": 8393,
+      "sha256": "48dff3534ff9e1628af953defa460e642741ba80e7f3b9f124c9cc796a1b96c5"
+    },
+    "results/analysis/prior_burden.csv": {
+      "bytes": 106599,
+      "sha256": "9084f6f412c7279e2c1c836d4fce76948e7014160e673a3237b3603f2924cde0"
+    },
+    "results/analysis/thresholds.csv": {
+      "bytes": 160741,
+      "sha256": "dde70dcd5c49aa203bffd737fd3f798ed4205761faf5061dbbcebc6ec7c4ba3b"
+    },
+    "results/baseline_registry.csv": {
+      "bytes": 9780,
+      "sha256": "ef3aa7e6619ef36f9d7b5385f6ed1a28309493f0502b54071c9b08e52da3f8b9"
+    },
+    "results/efficiency_measurements.csv": {
+      "bytes": 7836,
+      "sha256": "18d98cadd4fd45e2b5902bd441ddb098ce06ca87b3d579b162088700ef024bf4"
+    },
+    "results/main_training_history.csv": {
+      "bytes": 48529,
+      "sha256": "1dc688d68fe731fec9b94d53e366b2f3e9e2701e86cd65f30ac3c27933d87f7f"
+    },
+    "results/selected_models.json": {
+      "bytes": 9379,
+      "sha256": "020918219b1b151efe6cf482666f66b318c79295dbfc22650d9f8b78a163378f"
+    },
+    "results/test_metrics_by_seed.csv": {
+      "bytes": 60308,
+      "sha256": "1b166eb90e645b3379ed0f8417b18b273701698e0220b683a7dfbdfc5bb9ed04"
+    },
+    "scripts/analyze_predictions.py": {
+      "bytes": 3728,
+      "sha256": "6d36aba78a80b69a48079711a07f9346c19f3ac43b4e8bcdc8d6b3dc25336089"
+    },
+    "scripts/audit_release.py": {
+      "bytes": 4691,
+      "sha256": "c8120424a3d0a93821fb380f99c5a1d78585692bb17afadfd3159190fb1ec941"
+    },
+    "scripts/build_manifest.py": {
+      "bytes": 1716,
+      "sha256": "d0cf60fc3d35d6854a7619610b8ec426fcc14330162fa5a8d32de47343cbc5ee"
+    },
+    "scripts/recompute_metrics.py": {
+      "bytes": 722,
+      "sha256": "32b2759646d0a0513ddb82610fa825b529998454e8d0bcabde5885da78c9f28d"
+    },
+    "scripts/run_study.py": {
+      "bytes": 2493,
+      "sha256": "d8073500b4038fbdc9f1d1066b662a83271c655151abf419013a0b1967cec8b4"
+    },
+    "scripts/summarize_runs.py": {
+      "bytes": 1383,
+      "sha256": "bfacb8b996adc7f9721b4a55cc08ca265144bcf414b868bdb68a6542055e7e9c"
+    },
+    "src/evidrug/__init__.py": {
+      "bytes": 191,
+      "sha256": "857e838c2f316f2987602d67eccc864368a5c207c52cb700ab449b76cd784a19"
+    },
+    "src/evidrug/__main__.py": {
+      "bytes": 61,
+      "sha256": "3129adff95e0f38b87ab34cddfc27082c7892bcaec267ff5d40f160fdf55b44a"
+    },
+    "src/evidrug/analysis.py": {
+      "bytes": 3836,
+      "sha256": "53525978df198f44c713d3ec82472e1fe2aeec19c51af997e9f179bfe903d5fb"
+    },
+    "src/evidrug/benchmark.py": {
+      "bytes": 1929,
+      "sha256": "25e4c22b079d6cb92f3ef1f391a80fa50a246ad3fd94ab08e1e9eeafce1fea08"
+    },
+    "src/evidrug/checkpoints.py": {
+      "bytes": 1201,
+      "sha256": "f31d22ef650b69b76788c022b2e2c4b2f505e7c3aaad86b0ef045100a8198050"
+    },
+    "src/evidrug/cli.py": {
+      "bytes": 3554,
+      "sha256": "8e0e73332a6e9ba6d5eef5797202b67d523656f2f06f8b36d0f31bfdf9d8405e"
+    },
+    "src/evidrug/config.py": {
+      "bytes": 2316,
+      "sha256": "e596969e9a281450525f31d0157bbe8b76d45505a5d3e0e702b52f4ba8a59cdd"
+    },
+    "src/evidrug/data/__init__.py": {
+      "bytes": 71,
+      "sha256": "5d929be06a2dbac16a9cf0b190763a1efbb59211874163efb1efaa4bb612cb1f"
+    },
+    "src/evidrug/data/batching.py": {
+      "bytes": 11126,
+      "sha256": "f76bcf9fd4e0035f25d35a21d475a9633556260f5a32cd40a3e5c044c538dc41"
+    },
+    "src/evidrug/data/mappings/resource_checksums.json": {
+      "bytes": 623,
+      "sha256": "ebdb9551ea7c7dbe10d7bb1d467b7b6a8a89a8a959c9a322a73ae58f5fab1dd0"
+    },
+    "src/evidrug/data/mappings/sicdb_drug_mapping.json": {
+      "bytes": 53927,
+      "sha256": "c6307a740679a9090b3466832a6fd0cde17466fd159f0a8f1d2a1dc80eb223fb"
+    },
+    "src/evidrug/data/mimic_iv.py": {
+      "bytes": 6382,
+      "sha256": "2c85df5f71f3e1173a2e662045af04f17607bf3a525e6514077b6385116bd29e"
+    },
+    "src/evidrug/data/nwicu.py": {
+      "bytes": 8927,
+      "sha256": "fa722300fea710bf357074a7cb818d7a3d36502487ad5eeb4f3cf5726ef2b8e5"
+    },
+    "src/evidrug/data/nwicu_inspection.py": {
+      "bytes": 20965,
+      "sha256": "a80dfc10a67b3c094a4f4f7deea3181d08819dcc013482c60189a3a856cb3880"
+    },
+    "src/evidrug/data/records.py": {
+      "bytes": 5335,
+      "sha256": "27e20f5a77b0679bbce085c7fdf0e2e4aee1d907bd7183181171bcaccafa3f88"
+    },
+    "src/evidrug/data/resources.py": {
+      "bytes": 2120,
+      "sha256": "1ad266d0b2d8079ea7375884abe8aa82d2701000bbc4bc77d601ffc2a814ff52"
+    },
+    "src/evidrug/data/sicdb.py": {
+      "bytes": 6335,
+      "sha256": "e8ab4d9212ae9ba345193538f7a7a5a4f1e22ba58a8512b642522ee727fc86d7"
+    },
+    "src/evidrug/evidence/__init__.py": {
+      "bytes": 71,
+      "sha256": "434b2abfd7bce18a8e1fc803e91bdc3395a146cccb363852dbec68706e958f7a"
+    },
+    "src/evidrug/evidence/association.py": {
+      "bytes": 4288,
+      "sha256": "f773df66dcdb6142141ab901b1d3d3eb6c3d7a342dd1acdcb2ae406b3e266af4"
+    },
+    "src/evidrug/evidence/retrieval.py": {
+      "bytes": 7896,
+      "sha256": "479db71f4b1bdaf1251bde978fe57b19c6d0361be5fb466baf7bc417e3f8ecda"
+    },
+    "src/evidrug/evidence/serving.py": {
+      "bytes": 5708,
+      "sha256": "a1a3a73a5d925e6e32192e80bbe6de2312cf23e3aabd64e4632f2f3b73336ca9"
+    },
+    "src/evidrug/inference.py": {
+      "bytes": 2967,
+      "sha256": "2f429cdf67c940bcc3233734dbeef4e7d37e27b2e7d307c4e67ac1b2303f8c06"
+    },
+    "src/evidrug/metrics.py": {
+      "bytes": 1737,
+      "sha256": "76e980d35b828aa258bd0d1a0c4cb1f23b7047295fc6b1fc8ec78a1ab55d3120"
+    },
+    "src/evidrug/models/__init__.py": {
+      "bytes": 205,
+      "sha256": "e482619328d3ec3a6d7e89b3e6657c4ec1ec88983cd2cc0467acd184148db3da"
+    },
+    "src/evidrug/models/backbone.py": {
+      "bytes": 11660,
+      "sha256": "9f28e297e7cb91298bcf9496d4fb460a1cf51b7de4064d5e78cf258fccdef572"
+    },
+    "src/evidrug/models/encoder.py": {
+      "bytes": 2116,
+      "sha256": "cb737dc7ec881f517cedbfbfa1a269a5e8b7b0443152228444e12e4468f90c91"
+    },
+    "src/evidrug/models/model.py": {
+      "bytes": 1817,
+      "sha256": "32efa0040f3825b409cb717ab97d5db89e65ea208df730a0c95b7c3914765e0c"
+    },
+    "src/evidrug/models/refinement.py": {
+      "bytes": 2217,
+      "sha256": "3c61e293aace663dc93c10d166cca06b613983c773bc0217656c78b0d2a65f00"
+    },
+    "src/evidrug/objectives.py": {
+      "bytes": 2074,
+      "sha256": "5aa78c16a87c3c799c12b24fd7ce0bc55d9ee2d611e4e7c79e5804fae103646f"
+    },
+    "src/evidrug/serving.py": {
+      "bytes": 7187,
+      "sha256": "6c849527529d51ecefba0e39b347087f181e885dd150afa3736b04d3ab96c8f3"
+    },
+    "src/evidrug/training.py": {
+      "bytes": 14425,
+      "sha256": "df3b17695214d3a3c048b2665ce8cd10b816662d915f8331cc643a65706a652a"
+    },
+    "src/evidrug/utils.py": {
+      "bytes": 1129,
+      "sha256": "e2d8b1096b4443c7f31074aa681a37c918fbdebff291331c089176d442814dc9"
+    },
+    "tests/conftest.py": {
+      "bytes": 1935,
+      "sha256": "d8a6a4d21ff58c8290310ff8d70c76568357c772174fa73bc4d8b7152be938be"
+    },
+    "tests/test_analysis.py": {
+      "bytes": 1107,
+      "sha256": "fb0d7281f3cbc08ace41469a7d709a57ba396d467dbf8068bc33566d3183674e"
+    },
+    "tests/test_data.py": {
+      "bytes": 7929,
+      "sha256": "d0184fb3ffab60226a6e2528008ad8c171179d0e17d318fdb1e0ea8c3936b870"
+    },
+    "tests/test_model.py": {
+      "bytes": 2281,
+      "sha256": "177125963ee7edf4884488a71c32c9d06ff6ac82f9f48cd2b22731ef63038a3b"
+    },
+    "tests/test_objectives.py": {
+      "bytes": 2218,
+      "sha256": "0eb1d74cbd71b210a57fb19a99a9f4927afe4553d96cc8337c63a28b4ac0df41"
+    },
+    "tests/test_pipeline.py": {
+      "bytes": 2408,
+      "sha256": "d879458071ff7c5c49a5bd612b048b7c68d91d1478379a8fedf98e9a6312dd3f"
+    },
+    "tests/test_serving.py": {
+      "bytes": 1254,
+      "sha256": "96e8a7dba4ff869bc213590b974a46ec9c86ee40a75d764fb3d6ff92b82a0538"
+    },
+    "verification/refactor_parity.json": {
+      "bytes": 3830,
+      "sha256": "0def71cc5f90a6efac84dc0dd82d9bdcdbbf077c2a8af51900ea06724b2a71f6"
+    },
+    "verification/test_suite.json": {
+      "bytes": 448,
+      "sha256": "8f420d7f8ff2a177c3ca0571bf48ee6a3101f8ee4651dee7fff172d41d9bc19a"
+    }
+  },
+  "files_count": 88,
+  "patient_level_data_included": false,
+  "supplementary_pdf_included": false
+}

@@ -1,0 +1,17 @@
+{
+  "NDC_to_ATC.csv": {
+    "source": "https://storage.googleapis.com/pyhealth/resource/NDC_to_ATC.csv",
+    "bytes": 22452218,
+    "sha256": "82af3bd9a983581af44754ba2b2b343cde46686a0c08d5aa18a4f46c94de6899"
+  },
+  "ATC.csv": {
+    "source": "https://storage.googleapis.com/pyhealth/resource/ATC.csv",
+    "bytes": 4676077,
+    "sha256": "56edce0c5225ca340dce88565535f267984bcccf69028af44a43662f53b9f7ef"
+  },
+  "DDI_GAMENet.csv": {
+    "source": "https://storage.googleapis.com/pyhealth/resource/DDI_GAMENet.csv",
+    "bytes": 16188,
+    "sha256": "ba58181635fbd740f2f36d70d5f7354e4690cedb6e7a54a2ec8eaa5c8cf26f6c"
+  }
+}

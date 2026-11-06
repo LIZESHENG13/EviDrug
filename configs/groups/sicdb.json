@@ -1,0 +1,28 @@
+{
+  "frequency_quantiles": [
+    0.25,
+    0.5,
+    0.75
+  ],
+  "frequency_cuts": [
+    17.0,
+    102.0,
+    1013.0
+  ],
+  "frequency_cut_source": "all train visits; same corpus as train-only association statistics",
+  "topk_values": [
+    7,
+    10,
+    12,
+    15
+  ],
+  "topk_source": "training prescription size quantiles .25/.5/.75/.9 rounded and deduplicated",
+  "diagnosis_medication_support": "maximum training co-occurrence count across current diagnosis codes",
+  "support_bins": [
+    "0",
+    "1-2",
+    "3-9",
+    ">=10"
+  ],
+  "split_sha256": "7b5574e342471c6289018e921361b4fd1aea1d2a09014863bb7ca82209c05615"
+}

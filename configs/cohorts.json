@@ -1,0 +1,46 @@
+{
+  "mimic_iv_full": {
+    "split": {
+      "train": 62402,
+      "validation": 6934,
+      "test": 17334
+    },
+    "split_sha256": "626031c8304c3b0e233050c2e087d6b0bbce0f0dea73668376750f33b3050cab",
+    "version": "3.1",
+    "patients": 86670,
+    "visits": 352967,
+    "codes": 35391,
+    "medications": 201,
+    "official_url": "https://physionet.org/content/mimiciv/3.1/"
+  },
+  "nwicu": {
+    "split": {
+      "train": 8993,
+      "validation": 1000,
+      "test": 2499
+    },
+    "split_sha256": "c2ca5f35325d6b1aaa28658cfc90877851f2b5286316a9ecb2a59e9ce018e87e",
+    "version": "0.1.0",
+    "patients": 12492,
+    "visits": 43115,
+    "codes": 6258,
+    "medications": 167,
+    "mapping_coverage": 0.7503,
+    "doi": "10.13026/s84w-1829"
+  },
+  "sicdb": {
+    "split": {
+      "train": 2806,
+      "validation": 312,
+      "test": 780
+    },
+    "split_sha256": "7b5574e342471c6289018e921361b4fd1aea1d2a09014863bb7ca82209c05615",
+    "version": "1.0.8",
+    "patients": 3898,
+    "visits": 9550,
+    "codes": 1069,
+    "medications": 81,
+    "mapping_coverage": 0.8069,
+    "official_url": "https://physionet.org/content/sicdb/1.0.8/"
+  }
+}

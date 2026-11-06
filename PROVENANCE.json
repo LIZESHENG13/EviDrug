@@ -1,0 +1,22 @@
+{
+  "model_version": "clinical_memory_dynamic_20261104",
+  "frozen_results_sha256": "d246f815dbcf6816ca2c7cae6f3c236464a6a37d5e847e6e1d0645f77c762980",
+  "frozen_protocol_sha256": "57456657df00dd0413ae757ca402aa8a595cf6265cb58eb5526d849f977cc64e",
+  "frozen_study_sha256": "42e4515f49d7f9e40f9ce90613ff78a7daede93b3af810f52be71abc7712cd5a",
+  "efficiency_measurements_sha256": "e8553468f20542e7005d4924295ef0b3dad286b3e9f21df30094ed58347f3f02",
+  "source_study_sha256": "6c437585408dc28312d8573527e23a494a4eacaf94149b965a7da83e289290aa",
+  "exports": "Focused EviDrug implementation, configurations, aggregate study results and verification records.",
+  "omitted": [
+    "clinical records",
+    "patient identifiers",
+    "patient order arrays",
+    "patient-level predictions",
+    "retrieval memories",
+    "learned weights"
+  ],
+  "delivery": "Public code repository; supplementary PDF is delivered separately.",
+  "code_repository_url": "https://github.com/LIZESHENG13/EviDrug",
+  "release_layout": "src/evidrug",
+  "architecture_preserved": true,
+  "random_initialization_stream_preserved": false
+}

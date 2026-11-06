@@ -1,0 +1,32 @@
+{
+  "split_seed": 0,
+  "optimization_seeds": [0, 1, 2],
+  "epochs_per_stage": 20,
+  "batch_size": 64,
+  "dtype": "float32",
+  "backbone_encoder_learning_rate": 0.00005,
+  "backbone_head_learning_rate": 0.0007,
+  "refinement_learning_rate": 0.0005,
+  "weight_decay": 0.001,
+  "gradient_norm_clip": 5.0,
+  "ranking_weight": 0.05,
+  "prior_bce_weight": 0.25,
+  "refinement_initialization_seed_offset": 4100,
+  "continuation_seed_offset": 7100,
+  "recommendation_threshold": 0.3,
+  "soft_selection_temperature": 0.25,
+  "ddi_target_multiplier": 0.9,
+  "ddi_initial_coefficient": 1.0,
+  "ddi_coefficient_step": 20.0,
+  "ddi_coefficient_maximum": 10.0,
+  "maximum_validation_ap_drop": 0.002,
+  "maximum_validation_f1_drop": 0.005,
+  "maximum_validation_jaccard_drop": 0.005,
+  "validation_medication_count_ratio": [0.9, 1.1],
+  "fixed_coefficient_controls": {
+    "continue_zero": 0.0,
+    "fixed_005": 0.05,
+    "fixed_010": 0.1,
+    "fixed": 1.0
+  }
+}

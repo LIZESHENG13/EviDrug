@@ -1,0 +1,2688 @@
+{
+  "Cefazolin": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Tranexams": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "FentaNYL": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Fols": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "DEXAmethason": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Thiamin": {
+    "atc3": [
+      "A11D"
+    ],
+    "method": "rxnorm_unique_direct_atc_membership"
+  },
+  "Dalteparin": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Nicht gelistetes Bolusmedikament": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Metamizol": {
+    "atc3": [
+      "N02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Kalium jodid+Levothyroxin natrium": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Esomeprazol": {
+    "atc3": [
+      "A02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "FUROsemid": {
+    "atc3": [
+      "C03C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Allopurinol": {
+    "atc3": [
+      "M04A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Midazolam": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Norepinephrin": {
+    "atc3": [
+      "C01C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "CloNIDin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Metronidazol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Metoprolol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "PIRItramid": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Haloperidol": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Esmolol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Cefuroxim": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Propofol 1%": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Bisoprolol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Doxazosin": {
+    "atc3": [
+      "C02C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Pantoprazol": {
+    "atc3": [
+      "A02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ciclosporin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "ROCuronium": {
+    "atc3": [
+      "M03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Enoxaparin prophylakt.": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Propofol 2%": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Cafedrin-Theodrenalin": {
+    "atc3": [
+      "C01C"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Moxonidin": {
+    "atc3": [
+      "C02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Urapidil": {
+    "atc3": [
+      "C02C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Remifentanil": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "AMIOdaron": {
+    "atc3": [
+      "C01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Acetylsalicyls": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Vancomycin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Calciumglukonat 10%": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "S-Ketamin": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Phenylephrin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nebivolol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Sevelamer": {
+    "atc3": [
+      "V03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Clindamycin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Meropenem": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Penicillin G": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Fibrinogen": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Phytmenadion": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Magnesiumgluconicum": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Glycopyrronium": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "SUFentanil": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Insulin": {
+    "atc3": [
+      "A10A"
+    ],
+    "method": "rxnorm_unique_direct_atc_membership"
+  },
+  "Ipratroprium und Fenoterol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Sugammadex": {
+    "atc3": [
+      "V03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ephedrin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Hydrocortison": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Spironolacton": {
+    "atc3": [
+      "C03D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ornithinaspartat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Rifaximin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "MethylPREDNIsolon": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "ONDANsetron": {
+    "atc3": [
+      "A04A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Pyridostigmin bromid": {
+    "atc3": [
+      "N07A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Paracetamol": {
+    "atc3": [
+      "N02B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Azathioprin": {
+    "atc3": [
+      "L04A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "LEVOthyroxin": {
+    "atc3": [
+      "H03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Atorvastatin": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "HYDROmorphon": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Lidocain 1%": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "ROPIvacain 0.75%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "ROPIvacain 0.2%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Dexmedetomidin": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Metformin": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Amlodipin": {
+    "atc3": [
+      "C08C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Macrogol 3350": {
+    "atc3": [
+      "A06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Digitoxin": {
+    "atc3": [
+      "C01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "LevETIRAcetam": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Quetiapin": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "LORazepam": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Torasemid": {
+    "atc3": [
+      "C03C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Piperacillin/Tazobactam": {
+    "atc3": [
+      "J01C"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Natriumpicosulfat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "PredniSOLON": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Droperidol": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Glucose-1-Phosphat": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Protaminsulfat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "CLEMAstin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Simeticon": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Mirtazepin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Simvastatin": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Heparin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nicht gelistetes orales Medikament": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicht gelistete Tropfen": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Duloxetin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Baclofen": {
+    "atc3": [
+      "M03B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Pregabalin": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Tizanidin": {
+    "atc3": [
+      "M03B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Acetylcystein": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Finasterid": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Ranitidin": {
+    "atc3": [
+      "A02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "DesmoPRESSINazetat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Oxycodon ret": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Oxycodon": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Lisinopril HCT": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Sertralin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Beclometason und Formeterol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Lactobacillus casei": {
+    "atc3": [
+      "G01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Brinzolamid": {
+    "atc3": [
+      "S01E"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Thiamazol": {
+    "atc3": [
+      "H03B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Enoxaparin therapeut.": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Calcitriol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "DOBUtamin": {
+    "atc3": [
+      "C01C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Erythromycin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Levofloxacin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Metoclopramid": {
+    "atc3": [
+      "A03F"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Neostigmin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Trazodon ret": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Triazolam": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Nicotin": {
+    "atc3": [
+      "N07B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Amoxicillin/Clavulans": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Nicht gelistete Kurzinfusion": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Thiamin+Pyridoxin+Cyanocobalamin": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Pravastatin": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Efavirenz": {
+    "atc3": [
+      "J05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Salmeterol/Fluticason": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Pramipexol": {
+    "atc3": [
+      "N04B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Topiramat": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Olanzapin": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Tiotropium Lsg 2,5": {
+    "atc3": [
+      "R03B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ampicillin/Sulbactam": {
+    "atc3": [
+      "J01C"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Atropin sulfuricum": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "ROPIvacain 0.5%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Clopidogrel": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Enalapril": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Diazepam": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Moxifloxacin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Levodopa +Benserazid": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "ClonazePAM": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Lacosamid": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "HYDROmorphon retard": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Brotizolam": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Lercanidipin": {
+    "atc3": [
+      "C08C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Zolpidem": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Candesartan": {
+    "atc3": [
+      "C09C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Tiotropium+Olodaterol 2,5/2,5": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Gerinnungsfaktoren II, VI, IX, X": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Valproins": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Alfentanil": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Kalium": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Tiotropium": {
+    "atc3": [
+      "R03B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Risperidon": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Escitalopram": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Linagliptin": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ofloxacin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Acetylsalicylat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Mycophenolat mofetil": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Bisoprolol+HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Pankreatin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Eisen II": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Tamsulosin": {
+    "atc3": [
+      "G04C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Passionsblumenkraut": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "traMADol": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Bisoprolol fumarat": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Calcium/Vit D": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Metamizol gtt": {
+    "atc3": [
+      "N02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Gabapentin": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Miconazol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Levocetirizin": {
+    "atc3": [
+      "R06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ramipril": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ceftriaxon": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Terlipressin": {
+    "atc3": [
+      "H01B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Melatonin": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Milnacipran hydrochlorid": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ciprofloxacin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Fluvastatin": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Latanoprost": {
+    "atc3": [
+      "S01E"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Rifampicin": {
+    "atc3": [
+      "J04A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "EPINEPHrin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Carvedilol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Thiaminhydrochlorid": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Diclofenac": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Succinylcholin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Dihydrocodein": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Morphin": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Xipamid": {
+    "atc3": [
+      "C03B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Oxazepam": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Kaliumcanrenoat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Natriumpolystyrensulfonat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicht gelistete Inhalation": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Etilefrin": {
+    "atc3": [
+      "C01C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Tamsulosin retard": {
+    "atc3": [
+      "G04C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Lisinopril": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Propranolol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Fosfomycin": {
+    "atc3": [
+      "J01X"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ursodeoxychols": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Levodopa+Benserazid": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Mesalazin": {
+    "atc3": [
+      "A07E"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Aripiprazol": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Apixaban": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Magnesium": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Desloratadin": {
+    "atc3": [
+      "R06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Budesonid und Formeterol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Levosimendan": {
+    "atc3": [
+      "C01C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Fluconazol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Valsartan": {
+    "atc3": [
+      "C09C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Rosuvastatin": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Natriumnitroprussid": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicht gelistetes sc Medikament IU": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Iloprost": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Mycostatin Zinkoxid Paste": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Prothipendyl": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Daptomycin": {
+    "atc3": [
+      "J01X"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ezetimib": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Sildenafil": {
+    "atc3": [
+      "G04B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Glyceroltrinitrat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Vasopressin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "BUPivacain 0.5%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ezetimib+Simvastatin": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Diphenhydramin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Liposomales Amphotericin B": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Paroxetinhydrochlorid-Hemihydrat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Fluoxetin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "ADENOsin": {
+    "atc3": [
+      "C01E"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Bromazepam": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Mivacurim": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Diclofenac+Orphenadrincitrat": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Leflunomid": {
+    "atc3": [
+      "L04A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ceftazidim": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Eplerenon": {
+    "atc3": [
+      "C03D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Sulfametoxazol+Trimethoprim": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Voriconazol": {
+    "atc3": [
+      "J02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Glyzeroltrinitrat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Amitriptylin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Caspofungin": {
+    "atc3": [
+      "J02A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Flucloxacillin": {
+    "atc3": [
+      "J01C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Prilocain 1%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "ROPIvacain 0.375%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Lidocain 2%": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Hydroxycarbamid": {
+    "atc3": [
+      "L01X"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Mepivacain 1%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Promethazin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Flumazenil": {
+    "atc3": [
+      "V03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "PHYSostigmin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Minoxidil": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nitrendipin +Enalapril": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nicht gelistete Salbe/Creme": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Acyclovir": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicht gelisteter Perfusor": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Carbamazepin": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ramipril/HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Natrium perchlorat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Anidulafungin": {
+    "atc3": [
+      "J02A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Clarithromycin": {
+    "atc3": [
+      "J01F"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Macrogol": {
+    "atc3": [
+      "A06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Fosinopril Natrium": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Citalopram": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Mepivacain 2%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Linezolid": {
+    "atc3": [
+      "J01X"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Antithrombin III": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Cefotaxim": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Insulin lispro": {
+    "atc3": [
+      "A10A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Tolterodin-L-tartrat": {
+    "atc3": [
+      "G04B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Sitagliptin phosphat 1 H2O": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Metformin hydrochlorid": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Imipenem/Cilastin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Urokinase": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Natriumhydrogencarbonat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "BUPivacain 0.5% hyperbar": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Valsartan+HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Cefepim": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Nicht gelistetes Antiinfektivum": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Metformin +Vildagliptin": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Zolpidem tartrat 2": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "N-Acetylcystein": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Furosemid+Spironolacton": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Rilmenidin": {
+    "atc3": [
+      "C02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Candesartan +HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "ROPIvacain": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Azithromycin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nicht gelistetes anderes Medikament": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Somatostatin": {
+    "atc3": [
+      "H01C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Danaparoid": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Valsartan+Amlodipin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Ipratropriumbromid": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Naloxon": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Vitamin D3": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Cetylpyridinium": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Hyoscin-N-Butylbromid": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Distigmin": {
+    "atc3": [
+      "N07A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Verapamil": {
+    "atc3": [
+      "C08D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Etomidate": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Nicorandil": {
+    "atc3": [
+      "C01D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Gentamycin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Dapagliflozin+Metformin hydrochlorid 5/1000": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Amantadinsulfat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Methylnaltrexon": {
+    "atc3": [
+      "A06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ampicillin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Losartan": {
+    "atc3": [
+      "C09C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Melperon hydrochlorid": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Insulin-Aspart-Protamin-Kristall 30/70": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Metformin+Sitagliptin": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Amlodipin besilat+Valsartan+HCT": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Buprenorphin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Ivabradin": {
+    "atc3": [
+      "C01E"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "ZzRamipril/HCT": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Losartan+HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Propafenon": {
+    "atc3": [
+      "C01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Valaciclovir": {
+    "atc3": [
+      "J05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Trimethoprim/Sulfametoxazol": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Scopolamin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Lithium carbonat": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Alprostadil": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Cyclosporin A": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Ibuprofen": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Terbutalin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nalbuphin": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Natrium hydrogencarbonat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "ROPIvacain 1%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Flavonoidfraktion": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Cinacalcet hydrochlorid": {
+    "atc3": [
+      "H05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Donepezil": {
+    "atc3": [
+      "N06D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Nicht gelistetes Gerinnungsmedikament IU": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Trospium chlorid": {
+    "atc3": [
+      "G04B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Lamotrigin": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Natriumvalproat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Mefenamins": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Erythropoetin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Valganciclovir": {
+    "atc3": [
+      "J05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Tacrolimus": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Domperidon": {
+    "atc3": [
+      "A03F"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Venlafaxin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Insulin-Aspart-Protamin-Kristall 70/30": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Meloxicam": {
+    "atc3": [
+      "M01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Thiopentalnatrium": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Dutasterid": {
+    "atc3": [
+      "G04C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Cisatracurium": {
+    "atc3": [
+      "M03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Bisacodyl": {
+    "atc3": [
+      "A06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Alprazolam": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Hydroxyzin": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Kaliumchlorid": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Posaconazol": {
+    "atc3": [
+      "J02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Rivaroxaban": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Olmesartan+Amlodipin": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Agomelatin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Rivastigmin": {
+    "atc3": [
+      "N06D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Flupentixol+Melitracen": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Mepivacain 1,5%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Enalapril maleat": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Pethidin": {
+    "atc3": [
+      "N02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Olmesartan": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Bicalutamid": {
+    "atc3": [
+      "L02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Sevelamercarbonat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Insulin-Isophan": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Natriumglyzerophosphat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Tetrazepam": {
+    "atc3": [
+      "M03B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Fisch": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Gliquidon": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Morphinsulfat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Tenofovir disoproxil+Emtricitabin": {
+    "atc3": [
+      "J05A"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Theophyllin": {
+    "atc3": [
+      "R03D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Atenolol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Filgrastim": {
+    "atc3": [
+      "L03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Bupropion": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Gliclazid": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Prasugrel": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Teicoplanin": {
+    "atc3": [
+      "J01X"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Diltiazem": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Benzydamin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Tigecyclin": {
+    "atc3": [
+      "J01A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Levodopa/Carbidopa/Entacapon": {
+    "atc3": [
+      "N04B"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "Ropinirol": {
+    "atc3": [
+      "N04B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Acetazolamid": {
+    "atc3": [
+      "S01E"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ticagrelor": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Memantin": {
+    "atc3": [
+      "N06D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Formoterol-fumarat-dihydrat": {
+    "atc3": [
+      "R03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Liraglutid": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Fludrocortison": {
+    "atc3": [
+      "H02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Labetalol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Isoprenalin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Dabigatran": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Doxycyclin monohydrat": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Carbetocin": {
+    "atc3": [
+      "H01B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Aktivkohle": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Trometamol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Argatroban": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Sevofluran (Anaconda)": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Omnibiotic AAD": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Budesonid": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Fluticason": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Kybernin P": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Methylenblau": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicht gelistetes sc Medikament mg": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "ocTREOtid": {
+    "atc3": [
+      "H01C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Primidon": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Everolimus": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Fenofibrat": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Chlorprothixen": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "KETAmin": {
+    "atc3": [
+      "N01A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Telmisartan": {
+    "atc3": [
+      "C09C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Captopril": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Sucralfat": {
+    "atc3": [
+      "A02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Micafungin": {
+    "atc3": [
+      "J02A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Flunitrazepam": {
+    "atc3": [
+      "N05C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Hydrochlorothiazid+Ramipril": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Sotalol": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Acenocoumarol": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Glimepirid": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Metildigoxin": {
+    "atc3": [
+      "C01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Amilorid+HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Anastrozol": {
+    "atc3": [
+      "L02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Oseltamivir": {
+    "atc3": [
+      "J05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Cetrimid und Carbopol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Gentamycinsulfat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Levomepromazin": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Colistin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Extractum fructus silybi mariani siccum": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Enalapril+HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Eprosartan": {
+    "atc3": [
+      "C09C"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Exemestan": {
+    "atc3": [
+      "L02B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "On": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Glucagon hydrochlorid": {
+    "atc3": [
+      "H04A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Pyrazinamid": {
+    "atc3": [
+      "J04A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Indapamid": {
+    "atc3": [
+      "C03B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Oxcarbazepin": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Cyclophosphamid": {
+    "atc3": [
+      "L01A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Mesna": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Excicial Hydrocreme": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Salmeterol": {
+    "atc3": [
+      "R03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Pentoxifyllin": {
+    "atc3": [
+      "C04A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Enalapril maleat+HCT": {
+    "atc3": [],
+    "method": "unresolved_combination"
+  },
+  "Clobazam": {
+    "atc3": [
+      "N05B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Phenprocoumon": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Salbutamol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Fondaparinux": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Retinol und Dexpantenol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Clomipramin": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "NIFEdipin": {
+    "atc3": [
+      "C08C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Vildagliptin": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Gerinnungsfaktor XIII": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Idarucizumab": {
+    "atc3": [
+      "V03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "HuG-CSF": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicht gelistetes Gerinnungsmedikament": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Rotigotin": {
+    "atc3": [
+      "N04B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Faktor VIIa": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Terbinafin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Galantamin": {
+    "atc3": [
+      "N06D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Roflumilast": {
+    "atc3": [
+      "R03D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Ertapenem": {
+    "atc3": [
+      "J01D"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Tetracosactid": {
+    "atc3": [
+      "H01A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Insulin glargin": {
+    "atc3": [
+      "A10A"
+    ],
+    "method": "rxnorm_unique_direct_atc_membership"
+  },
+  "Eisen Saccharose": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Chlorhexidin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Calcium gluc.": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Dimetinden maleat": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Ziprasidon": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Biperidin Ret.": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Nicotinamid+Thiamin+Riboflavin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Cetylpyridinium chlorid 1-Wasser": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Cyanocobolamin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Cilazapril": {
+    "atc3": [
+      "C09A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Imatinib mesilat": {
+    "atc3": [
+      "L01E"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Phenytoin": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Bezafibrat": {
+    "atc3": [
+      "C10A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "DihydrALAZIN": {
+    "atc3": [
+      "C02D"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "ROPIvacain 0.15%": {
+    "atc3": [
+      "N01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "ZzRamipril HCT": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Colistimethat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Immunglobulin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Ginkgoblatt Trockenextrakt": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Methadon": {
+    "atc3": [
+      "N07B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Dapagliflozin": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Alteplase": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Bosentan-1-Wasser": {
+    "atc3": [
+      "C02K"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Piracetam": {
+    "atc3": [
+      "N06B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Dronedaron hydrochlorid": {
+    "atc3": [
+      "C01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Fusidins": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Rasagilin": {
+    "atc3": [
+      "N04B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Methohexital": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Methotrexat": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Glutamin": {
+    "atc3": [
+      "A16A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Rilmenidin dihydrogenphosphat": {
+    "atc3": [
+      "C02A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Zuclopenthixol decanoat": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Perampanel": {
+    "atc3": [
+      "N03A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Retinol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Abciximab": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Moclobemid": {
+    "atc3": [
+      "N06A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Ciclesonid": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Ganciclovir": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Naproxen TBL": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "NiMODipin": {
+    "atc3": [
+      "C08C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Natriumchlorid Sachet": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Dapagliflozin+Metformin hydrochlorid 5/850": {
+    "atc3": [
+      "A10B"
+    ],
+    "method": "local_multi_ingredient_unique_common_atc3"
+  },
+  "DOPamin": {
+    "atc3": [
+      "C01C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Insulin-Aspart-Protamin-Kristall 50/50": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Doxycyclin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Cabergolin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Chloroquin": {
+    "atc3": [
+      "P01B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Mycophenolat": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Tetanus Toxoid": {
+    "atc3": [
+      "J07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Paromomycin": {
+    "atc3": [
+      "A07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Biperidin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Isoniazid": {
+    "atc3": [
+      "J04A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Amphotericin B": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Nitrendipin": {
+    "atc3": [
+      "C08C"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Nitroglycerin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "ZzColistin": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Dexpanthenol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Econazol": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Tantum verde Lutschtabletten": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Oxytocin": {
+    "atc3": [
+      "H01B"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Oculotect Fluid Au-Tr": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Bisoprolol-hemi-fumarat": {
+    "atc3": [
+      "C07A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Caroverin": {
+    "atc3": [
+      "A03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Methylphenidat hydrochlorid": {
+    "atc3": [
+      "N06B"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Protifar": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  },
+  "Amikacin": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Naproxen Saft": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Tenecteplase": {
+    "atc3": [
+      "B01A"
+    ],
+    "method": "local_exact_ingredient"
+  },
+  "Hydrochlorothiazid": {
+    "atc3": [
+      "C03A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Tiaprid": {
+    "atc3": [
+      "N05A"
+    ],
+    "method": "local_salt_or_terminal_e_orthographic_alias"
+  },
+  "Celecoxib": {
+    "atc3": [],
+    "method": "ambiguous_atc3_for_ingredient"
+  },
+  "Etacrynsaeure": {
+    "atc3": [],
+    "method": "multiple_ingredients_or_no_exact_ingredient"
+  }
+}
