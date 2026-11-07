@@ -12,4 +12,4 @@ The PDF contains five sections:
 
 Main-model and control experiments use optimization seeds 0, 1 and 2 on fixed patient partitions. Summary rows in the PDF report mean and sample standard deviation. Existing baselines use one optimization seed and their documented budgets.
 
-Code: https://anonymous.4open.science/r/EviDrug-B7C7/
+Code: https://github.com/LIZESHENG13/EviDrug

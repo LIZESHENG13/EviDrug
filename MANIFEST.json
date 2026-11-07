@@ -24,8 +24,8 @@
       "sha256": "2cb2e02bc33c3210451b4989fa9dcf87f3225b8192415e2b030a1bf4e5192dd7"
     },
     "README.md": {
-      "bytes": 5785,
-      "sha256": "fd6a46adb701aa13ab543e2afb830267ac30afcd0eaefb45e30615d7e9c9be8b"
+      "bytes": 5780,
+      "sha256": "255feec85e193b33d7a2b243a57ce5a1e441be811d6cf1c34485a8fa1125bc3d"
     },
     "configs/cohorts.json": {
       "bytes": 1149,
@@ -324,8 +324,8 @@
       "sha256": "d8afa8cd6f2ebdc9dc0b62467a9f8a0e3e5f00702cbb0f83b7a9baa3a0fcdc22"
     },
     "supplementary/README.md": {
-      "bytes": 1356,
-      "sha256": "84941274c36aa3a9d73aec8c9460fa0e4f6bb91685176193d26abaa0751da0b6"
+      "bytes": 1347,
+      "sha256": "bedded1cebed0cc5b8f0bd13a88a2bd1cb25091bcc5ae465fccd1ffeb1b98e85"
     },
     "supplementary/data/sicdb_medication_mapping.csv": {
       "bytes": 32714,

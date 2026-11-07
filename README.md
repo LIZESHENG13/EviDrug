@@ -2,7 +2,7 @@
 
 **Clinical Evidence-Guided Residual Learning for Medication Recommendation with Dynamic DDI Regularization**
 
-[Anonymous review repository](https://anonymous.4open.science/r/EviDrug-B7C7/)
+[Code and supplementary material](https://github.com/LIZESHENG13/EviDrug)
 
 [Supplementary PDF](supplementary/EviDrug_Supplementary.pdf) · [Supplementary tables and data protocol](supplementary/README.md)
 
